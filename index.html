@@ -33,13 +33,9 @@
             const getSaved = () => {
                 try { return localStorage.getItem(STORAGE_KEY); } catch (_) { return null; }
             };
-            const preference = getSaved() || (isMobile() ? 'dark' : 'system');
-            const resolved = preference === 'system'
-                ? (prefersDark && prefersDark.matches ? 'dark' : 'light')
-                : preference;
-            document.documentElement.setAttribute('data-theme-preference', preference);
-            document.documentElement.setAttribute('data-theme', resolved);
-            document.documentElement.style.colorScheme = resolved;
+            const preference = getSaved() || 'dark';
+            document.documentElement.setAttribute('data-theme', preference);
+            document.documentElement.style.colorScheme = preference;
         })();
     </script>
     
@@ -73,12 +69,10 @@
 <body>
     <a href="#current-week-post" class="skip-link">Skip to main content</a>
     <header class="site-header">
+        <button id="theme-toggle-btn" class="theme-toggle-btn" aria-label="Toggle theme" data-testid="theme-toggle">
+            <span class="theme-icon" aria-hidden="true">🌙</span>
+        </button>
         <h1>OTT Weekly Releases</h1>
-        <div class="theme-toggle" role="group" aria-label="Theme selection" data-testid="theme-toggle">
-            <button type="button" class="theme-btn" data-theme="system" data-testid="theme-option-system" aria-pressed="false">System</button>
-            <button type="button" class="theme-btn" data-theme="light" data-testid="theme-option-light" aria-pressed="false">Light</button>
-            <button type="button" class="theme-btn" data-theme="dark" data-testid="theme-option-dark" aria-pressed="false">Dark</button>
-        </div>
         <button id="back-to-current" class="back-to-current" aria-label="Back to current week" style="display: none;">
             <- Back to Current Week
         </button>

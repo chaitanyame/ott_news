@@ -38,6 +38,34 @@ This session transformed the template into a real project:
 
 ## Session History
 
+### Session 14 - 2025-12-07
+
+**Feature**: Theme Toggle (System/Light/Dark)
+**Branch**: `001-ott-weekly-releases`
+**Status**: ✅ Complete
+
+Implemented theme selection system with smart defaults:
+- **Pre-paint theme loader**: Inline script prevents flash of wrong theme
+- **Default logic**: System on desktop, Dark on mobile (unless user saved preference)
+- **Three-option toggle**: System, Light, Dark buttons in header
+- **Light theme**: Complete inverted color palette for all CSS variables
+- **Persistence**: Theme choice saved in localStorage
+- **System theme tracking**: Responds to OS preference changes via matchMedia
+- **Test coverage**: Playwright test file created for future validation
+
+**Files Modified**:
+- `index.html` - Added pre-paint script, theme toggle UI
+- `assets/css/main.css` - Added light theme tokens, theme button styles
+- `assets/js/app.js` - Added theme initialization and switching logic
+- `tests/features/theme-toggle.spec.ts` - Created test suite (TDD deferred per user request)
+
+**Commit**: `a6db4ad` - feat: add theme toggle with smart defaults
+**Pushed**: ✅ origin/001-ott-weekly-releases
+
+**Local Testing**: Server running at `http://localhost:3000`
+
+---
+
 ### Session 13 - 2025-12-07 (FINAL SESSION)
 
 **Features**: F17, F23-F35 (All remaining features)
