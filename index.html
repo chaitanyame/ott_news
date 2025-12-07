@@ -25,13 +25,43 @@
     
     <title>OTT Weekly Releases</title>
     
+    <script>
+        (function() {
+            const STORAGE_KEY = 'ott-theme-preference';
+            const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)');
+            const isMobile = () => (window.matchMedia && window.matchMedia('(max-width: 767px)').matches) || /Mobi|Android/i.test(navigator.userAgent);
+            const getSaved = () => {
+                try { return localStorage.getItem(STORAGE_KEY); } catch (_) { return null; }
+            };
+            const preference = getSaved() || (isMobile() ? 'dark' : 'system');
+            const resolved = preference === 'system'
+                ? (prefersDark && prefersDark.matches ? 'dark' : 'light')
+                : preference;
+            document.documentElement.setAttribute('data-theme-preference', preference);
+            document.documentElement.setAttribute('data-theme', resolved);
+            document.documentElement.style.colorScheme = resolved;
+        })();
+    </script>
+    
     <!-- Critical CSS inlined for faster first paint -->
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
-        :root{--color-primary:#0d1117;--color-text:#f0f6fc;--color-accent:#58a6ff;--spacing-lg:1.5rem;--font-family:'Inter',-apple-system,BlinkMacSystemFont,sans-serif}
+        :root{
+            --color-primary:#0d1117;
+            --color-text:#f0f6fc;
+            --color-accent:#58a6ff;
+            --spacing-lg:1.5rem;
+            --font-family:'Inter',-apple-system,BlinkMacSystemFont,sans-serif
+        }
+        :root[data-theme="light"]{
+            --color-primary:#f6f8fb;
+            --color-text:#0f172a;
+            --color-accent:#1f6feb;
+        }
         *{margin:0;padding:0;box-sizing:border-box}
         body{font-family:var(--font-family);color:var(--color-text);background:var(--color-primary);min-height:100vh;-webkit-font-smoothing:antialiased}
         .site-header{background:linear-gradient(180deg,#161b22 0%,#0d1117 100%);padding:var(--spacing-lg);text-align:center;border-bottom:1px solid #30363d}
+        :root[data-theme="light"] .site-header{background:linear-gradient(180deg,#ffffff 0%,#e7edf7 100%);border-color:#d0d7de}
         .site-header h1{font-size:2rem;font-weight:700;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
         .loading{display:flex;flex-direction:column;align-items:center;padding:3rem;color:#8b949e}
         .loading-spinner{width:48px;height:48px;border:3px solid #30363d;border-top-color:var(--color-accent);border-radius:50%;animation:spin .8s linear infinite}
@@ -44,6 +74,11 @@
     <a href="#current-week-post" class="skip-link">Skip to main content</a>
     <header class="site-header">
         <h1>OTT Weekly Releases</h1>
+        <div class="theme-toggle" role="group" aria-label="Theme selection" data-testid="theme-toggle">
+            <button type="button" class="theme-btn" data-theme="system" data-testid="theme-option-system" aria-pressed="false">System</button>
+            <button type="button" class="theme-btn" data-theme="light" data-testid="theme-option-light" aria-pressed="false">Light</button>
+            <button type="button" class="theme-btn" data-theme="dark" data-testid="theme-option-dark" aria-pressed="false">Dark</button>
+        </div>
         <button id="back-to-current" class="back-to-current" aria-label="Back to current week" style="display: none;">
             <- Back to Current Week
         </button>
