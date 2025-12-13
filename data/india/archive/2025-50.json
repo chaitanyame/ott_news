@@ -11,7 +11,7 @@
     "name": "India",
     "flag": "🇮🇳"
   },
-  "generated_at": "2025-12-12T09:03:51.440Z",
+  "generated_at": "2025-12-13T09:02:17.532Z",
   "platforms": [
     {
       "id": "netflix",
@@ -21,17 +21,18 @@
           "title": "Kaantha",
           "release_date": "2025-12-12",
           "type": "movie",
-          "industry": "Mollywood/Malayalam",
-          "genre": "Drama",
-          "language": "Malayalam",
+          "industry": "Kollywood/Tamil",
+          "genre": "Period Drama",
+          "language": "Tamil",
           "actors": [
             "Dulquer Salmaan",
             "Bhagyashri Borse",
+            "Samuthirakani",
             "Rana Daggubati"
           ],
           "dubbing": "TBA",
-          "release_type": "Direct-to-OTT",
-          "description": "Kaantha is a drama directed by Selvamani Selvaraj, featuring Dulquer Salmaan in the lead.[1][4]"
+          "release_type": "Post-Theatrical",
+          "description": "Set in 1950s Madras Presidency, the film explores ego clashes between a star actor and his director amid a mystery investigation. Dulquer Salmaan anchors this slow-burning cinematic indulgence."
         },
         {
           "title": "Single Papa",
@@ -48,7 +49,21 @@
           ],
           "dubbing": "TBA",
           "release_type": "Direct-to-OTT",
-          "description": "Single Papa is a funny and touching parenting adventure starring Kunal Kemmu.[1][4]"
+          "description": "A freshly divorced manchild adopts a baby, exploring his transition to single fatherhood amid family chaos in a desi backdrop. Light-hearted comedy on modern parenthood."
+        },
+        {
+          "title": "Man vs Baby",
+          "release_date": "2025-12-11",
+          "type": "series",
+          "industry": "Hollywood/English",
+          "genre": "Comedy",
+          "language": "English",
+          "actors": [
+            "TBA"
+          ],
+          "dubbing": "TBA",
+          "release_type": "Direct-to-OTT",
+          "description": "A comedic series on the challenges of manhood versus fatherhood. New Netflix original hitting screens this week."
         },
         {
           "title": "Wake Up Dead Man: A Knives Out Mystery",
@@ -58,25 +73,84 @@
           "genre": "Mystery Thriller",
           "language": "English",
           "actors": [
-            "Daniel Craig"
+            "TBA"
           ],
-          "dubbing": "Hindi",
-          "release_type": "Post-Theatrical",
-          "description": "The latest installment in the Knives Out mystery series.[1][3]"
-        },
+          "dubbing": "TBA",
+          "release_type": "Direct-to-OTT",
+          "description": "The latest Knives Out mystery unfolds with suspense and twists. Streaming premiere on Netflix."
+        }
+      ]
+    },
+    {
+      "id": "prime-video",
+      "name": "Prime Video",
+      "releases": []
+    },
+    {
+      "id": "disney-plus-hotstar",
+      "name": "Disney+ Hotstar",
+      "releases": [
         {
-          "title": "Man vs Baby",
-          "release_date": "2025-11-11",
+          "title": "Percy Jackson and the Olympians Season 2",
+          "release_date": "2025-12-10",
           "type": "series",
           "industry": "Hollywood/English",
-          "genre": "Comedy",
+          "genre": "Action Adventure Fantasy",
           "language": "English",
           "actors": [
-            "Rowan Atkinson"
+            "Walker Scobell",
+            "Leah Sava Jeffries",
+            "Aryan Simhadri"
           ],
-          "dubbing": "Hindi",
+          "dubbing": "Hindi, Tamil, Telugu, Malayalam",
           "release_type": "Direct-to-OTT",
-          "description": "Rowan Atkinson's anarchic return in a comedy series.[1]"
+          "description": "Percy, Annabeth, and Tyson embark on a quest into the Sea of Monsters to retrieve the Golden Fleece and save Camp Half-Blood. Fantasy adventure for young audiences."
+        },
+        {
+          "title": "Superman",
+          "release_date": "2025-12-11",
+          "type": "movie",
+          "industry": "Hollywood/English",
+          "genre": "Superhero Action",
+          "language": "English",
+          "actors": [
+            "David Corenswet",
+            "Rachel Brosnahan",
+            "Nicholas Hoult"
+          ],
+          "dubbing": "Hindi, Tamil, Telugu, Malayalam",
+          "release_type": "Post-Theatrical",
+          "description": "James Gunn's reboot features the Man of Steel in a well-received superhero tale with an IMDb rating of 7.1. Digital premiere on the platform."
+        },
+        {
+          "title": "The Great Shamsuddin Family",
+          "release_date": "2025-12-12",
+          "type": "movie",
+          "industry": "Bollywood/Hindi",
+          "genre": "Comedy Drama",
+          "language": "Hindi",
+          "actors": [
+            "Kritika Kamra",
+            "Sheeba Chaddha",
+            "Shreya Dhanwanthary"
+          ],
+          "dubbing": "TBA",
+          "release_type": "Direct-to-OTT",
+          "description": "A writer faces family chaos and rivalries while racing against a deadline. Heartwarming tale of emotional meltdowns and drama."
+        },
+        {
+          "title": "Taylor Swift: The Eras Tour – The Final Show",
+          "release_date": "2025-12-12",
+          "type": "movie",
+          "industry": "Hollywood/English",
+          "genre": "Concert Documentary",
+          "language": "English",
+          "actors": [
+            "Taylor Swift"
+          ],
+          "dubbing": "TBA",
+          "release_type": "Direct-to-OTT",
+          "description": "Docuseries capturing glimpses from Taylor Swift's record-breaking Eras Tour final show. Available for Indian viewers."
         }
       ]
     },
@@ -87,17 +161,16 @@
         {
           "title": "Real Kashmir Football Club",
           "release_date": "2025-12-09",
-          "type": "series",
+          "type": "movie",
           "industry": "Bollywood/Hindi",
           "genre": "Sports Drama",
           "language": "Hindi",
           "actors": [
-            "Manav Kaul",
-            "Mohd. Zeeshan Ayyub"
+            "TBA"
           ],
           "dubbing": "TBA",
-          "release_type": "Direct-to-OTT",
-          "description": "An inspirational true-story sports series about turning a game into a movement in Kashmir.[1][3][4]"
+          "release_type": "Post-Theatrical",
+          "description": "Inspirational tale based on the Real Kashmir football club's journey. Streaming premiere this week."
         }
       ]
     },
@@ -114,11 +187,12 @@
           "language": "Hindi",
           "actors": [
             "Radhika Apte",
-            "Divyenndu Sharma"
+            "Divyenndu Sharma",
+            "Anurag Kashyap"
           ],
           "dubbing": "TBA",
           "release_type": "Direct-to-OTT",
-          "description": "A gripping suspense thriller directed by Tisca Chopra, produced by Manish Malhotra.[1][3][4]"
+          "description": "A housewife's peaceful life shatters after a double murder, uncovering deceit, adultery, and treachery in her town. Riveting parallel timeframe thriller."
         },
         {
           "title": "Kesariya@100",
@@ -127,70 +201,12 @@
           "industry": "Bollywood/Hindi",
           "genre": "Historical Documentary",
           "language": "Hindi",
-          "actors": [],
-          "dubbing": "TBA",
-          "release_type": "Direct-to-OTT",
-          "description": "A historical documentary.[1]"
-        }
-      ]
-    },
-    {
-      "id": "disney-plus-hotstar",
-      "name": "Disney+ Hotstar",
-      "releases": [
-        {
-          "title": "Percy Jackson and the Olympians Season 2",
-          "release_date": "2025-12-10",
-          "type": "series",
-          "industry": "Hollywood/English",
-          "genre": "Fantasy",
-          "language": "English",
-          "actors": [],
-          "dubbing": "Hindi, Tamil, Telugu",
-          "release_type": "Direct-to-OTT",
-          "description": "Second season for fantasy aficionados.[1][3]"
-        },
-        {
-          "title": "Superman",
-          "release_date": "2025-12-11",
-          "type": "movie",
-          "industry": "Hollywood/English",
-          "genre": "Action",
-          "language": "English",
-          "actors": [],
-          "dubbing": "Hindi, Tamil, Telugu, Malayalam",
-          "release_type": "Post-Theatrical",
-          "description": "Superman 2025 streaming premiere.[1][3]"
-        },
-        {
-          "title": "The Great Shamsuddin Family",
-          "release_date": "2025-12-12",
-          "type": "movie",
-          "industry": "Bollywood/Hindi",
-          "genre": "Comedy Drama",
-          "language": "Hindi",
           "actors": [
-            "Kritika Kamra",
-            "Sheeba Chaddha",
-            "Shreya Dhanwanthary"
+            "TBA"
           ],
           "dubbing": "TBA",
           "release_type": "Direct-to-OTT",
-          "description": "A family drama about a writer tackling a deadline amid family chaos.[1][3][4]"
-        },
-        {
-          "title": "Taylor Swift: The Eras Tour – The Final Show",
-          "release_date": "2025-12-12",
-          "type": "movie",
-          "industry": "Hollywood/English",
-          "genre": "Concert Documentary",
-          "language": "English",
-          "actors": [
-            "Taylor Swift"
-          ],
-          "dubbing": "Hindi",
-          "release_type": "Direct-to-OTT",
-          "description": "Docuseries from Taylor Swift's record-breaking Eras Tour.[4]"
+          "description": "Historical documentary marking 100 years of Kesariya. Gripping exploration of historical events."
         }
       ]
     },
@@ -208,12 +224,14 @@
           "release_date": "2025-12-12",
           "type": "series",
           "industry": "Tollywood/Telugu",
-          "genre": "Comedy Drama",
+          "genre": "Comedy Drama Thriller",
           "language": "Telugu",
-          "actors": [],
+          "actors": [
+            "TBA"
+          ],
           "dubbing": "TBA",
           "release_type": "Direct-to-OTT",
-          "description": "Telugu comedy-drama where three characters relocate to Mumbai, start an ad business, but face a gangster threat.[1]"
+          "description": "Three friends relocate to Mumbai, start an ad business, but face a gangster's pursuit turning their lives into a thrilling chase. Telugu web series continuation."
         }
       ]
     },
@@ -245,11 +263,6 @@
     {
       "id": "chaupal",
       "name": "Chaupal",
-      "releases": []
-    },
-    {
-      "id": "prime-video",
-      "name": "Prime Video",
       "releases": []
     }
   ]
