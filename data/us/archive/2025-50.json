@@ -11,12 +11,89 @@
     "name": "United States",
     "flag": "🇺🇸"
   },
-  "generated_at": "2025-12-13T09:02:04.608Z",
+  "generated_at": "2025-12-14T01:22:11.293Z",
   "platforms": [
     {
       "id": "netflix",
       "name": "Netflix",
       "releases": [
+        {
+          "title": "Wake Up Dead Man: A Knives Out Mystery",
+          "release_date": "2025-12-12",
+          "type": "movie",
+          "genre": "Mystery/Crime",
+          "language": "English",
+          "content_category": "mainstream",
+          "release_type": "Direct-to-OTT",
+          "actors": [
+            "Daniel Craig",
+            "Glenn Close",
+            "Josh Brolin",
+            "Mila Kunis"
+          ],
+          "description": "Rian Johnson's new installment in the Knives Out franchise; major Netflix original feature and platform exclusive.",
+          "theatrical_info": ""
+        },
+        {
+          "title": "Tomb Raider: The Legend of Lara Croft – Season 2",
+          "release_date": "2025-12-11",
+          "type": "series",
+          "genre": "Animation/Action-Adventure",
+          "language": "English",
+          "content_category": "mainstream",
+          "release_type": "Direct-to-OTT",
+          "actors": [
+            "Hayley Atwell (voice)",
+            "Richard Armitage (voice)",
+            "Allen Maldonado (voice)"
+          ],
+          "description": "Animated continuation of the Tomb Raider franchise with Hayley Atwell returning as the voice of Lara; Netflix original family-action series.",
+          "theatrical_info": ""
+        },
+        {
+          "title": "Man vs. Baby",
+          "release_date": "2025-12-11",
+          "type": "series",
+          "genre": "Comedy",
+          "language": "English",
+          "content_category": "mainstream",
+          "release_type": "Direct-to-OTT",
+          "actors": [
+            "Rowan Atkinson",
+            "Alanah Bloor",
+            "Claudie Blakley"
+          ],
+          "description": "UK comedy series starring Rowan Atkinson; Netflix original limited series (platform exclusive).",
+          "theatrical_info": ""
+        },
+        {
+          "title": "Record of Ragnarok – Season 3",
+          "release_date": "2025-12-10",
+          "type": "series",
+          "genre": "Animation/Fantasy",
+          "language": "Japanese (primary) with English dub/subtitles",
+          "content_category": "international",
+          "release_type": "Direct-to-OTT",
+          "actors": [
+            "Voice cast (varies by character)"
+          ],
+          "description": "Third season of the anime battle series; Japanese-language original with English subtitle and dub options in the US.",
+          "theatrical_info": ""
+        },
+        {
+          "title": "City of Shadows",
+          "release_date": "2025-12-12",
+          "type": "movie",
+          "genre": "Thriller/Crime",
+          "language": "Spanish (primary) with English subtitles/dub available",
+          "content_category": "international",
+          "release_type": "Direct-to-OTT",
+          "actors": [
+            "Spanish cast (principal actors credited on platform)"
+          ],
+          "description": "Spanish-language Netflix film set in Barcelona involving a fiery murder mystery; offered on Netflix US with subtitle/dub options.",
+          "theatrical_info": ""
+        },
         {
           "title": "Elmo and Mark Rober's Merry Giftmas",
           "release_date": "2025-12-08",
@@ -26,25 +103,11 @@
           "content_category": "mainstream",
           "release_type": "Direct-to-OTT",
           "actors": [
-            "Kevin Clash (voice)",
+            "Kevin Clash (Elmo - voice)",
             "Mark Rober",
-            "Elmo (voice)"
+            "Sesame Street ensemble (voices)"
           ],
-          "description": "Sesame Street holiday special pairing Elmo and YouTuber/engineer Mark Rober to create gifts for a 'Merry Giftmas' exchange; Netflix original family special exclusive to the platform.",
-          "theatrical_info": ""
-        },
-        {
-          "title": "Badly in Love (Season 1)",
-          "release_date": "2025-12-09",
-          "type": "series",
-          "genre": "Romantic Comedy/Drama",
-          "language": "Japanese",
-          "content_category": "international",
-          "release_type": "Direct-to-OTT",
-          "actors": [
-            "(Principal cast not specified in sources)"
-          ],
-          "description": "Netflix original Japanese romantic series (Season 1) added to Netflix US; direct-to-OTT release with English subtitles and likely dubbed options on the platform.",
+          "description": "Family holiday special pairing Sesame Street's Elmo with YouTuber/engineer Mark Rober; Netflix original special exclusive.",
           "theatrical_info": ""
         },
         {
@@ -56,206 +119,24 @@
           "content_category": "documentary",
           "release_type": "Direct-to-OTT",
           "actors": [
-            "(Documentary subjects)"
+            "Children/participants (documentary subjects)"
           ],
-          "description": "Netflix short documentary about children at a Ugandan orphanage who find healing and global acclaim through dance; Netflix original.",
+          "description": "Short documentary about children at a Ugandan orphanage who gain acclaim through viral dance; Netflix original documentary short.",
           "theatrical_info": ""
         },
         {
-          "title": "The West Wing (Seasons 1-7)",
-          "release_date": "2025-12-09",
-          "type": "series",
-          "genre": "Political Drama",
-          "language": "English",
-          "content_category": "mainstream",
-          "release_type": "Catalog Addition",
-          "actors": [
-            "Martin Sheen",
-            "Allison Janney",
-            "Bradley Whitford",
-            "Richard Schiff"
-          ],
-          "description": "Complete seven-season run of the Aaron Sorkin political drama added to Netflix US as a catalog acquisition (previously on other platforms); full-series catalog addition.",
-          "theatrical_info": ""
-        },
-        {
-          "title": "Record of Ragnarok (Season 3)",
-          "release_date": "2025-12-10",
-          "type": "series",
-          "genre": "Anime/Action",
-          "language": "Japanese",
-          "content_category": "international",
-          "release_type": "Direct-to-OTT",
-          "actors": [
-            "(Voice cast varies)"
-          ],
-          "description": "Netflix original anime (Season 3) continuing the battle series pitting gods vs. humans; direct-to-OTT anime release with subs and dubs in US.",
-          "theatrical_info": ""
-        },
-        {
-          "title": "Simon Cowell: The Next Act (Season 1)",
-          "release_date": "2025-12-10",
-          "type": "series",
-          "genre": "Documentary/Reality",
-          "language": "English",
-          "content_category": "reality",
-          "release_type": "Direct-to-OTT",
-          "actors": [
-            "Simon Cowell"
-          ],
-          "description": "Netflix original docuseries following Simon Cowell's life/career and comeback efforts; platform-original reality/documentary content exclusive to Netflix.",
-          "theatrical_info": ""
-        },
-        {
-          "title": "The Accident (Season 2)",
-          "release_date": "2025-12-10",
-          "type": "series",
-          "genre": "Drama/Thriller",
-          "language": "English",
-          "content_category": "mainstream",
-          "release_type": "Direct-to-OTT",
-          "actors": [
-            "(Principal cast not specified in sources)"
-          ],
-          "description": "Netflix original second season of the drama series exploring aftermath and secrets following a tragic event; direct-to-OTT season release.",
-          "theatrical_info": ""
-        },
-        {
-          "title": "Man vs Baby (Season 1)",
-          "release_date": "2025-12-11",
-          "type": "series",
-          "genre": "Comedy",
-          "language": "English",
-          "content_category": "mainstream",
-          "release_type": "Direct-to-OTT",
-          "actors": [
-            "Rowan Atkinson",
-            "Alanah Bloor",
-            "Claudie Blakley",
-            "Susannah Fielding"
-          ],
-          "description": "Netflix original comedy series starring Rowan Atkinson as Trevor dealing with chaotic parenting situations; direct-to-OTT exclusive.",
-          "theatrical_info": ""
-        },
-        {
-          "title": "Tomb Raider: The Legend of Lara Croft (Season 2)",
-          "release_date": "2025-12-11",
-          "type": "series",
-          "genre": "Animation/Action-Adventure",
-          "language": "English",
-          "content_category": "animation",
-          "release_type": "Direct-to-OTT",
-          "actors": [
-            "Hayley Atwell (voice)",
-            "Richard Armitage (voice)",
-            "Allen Maldonado (voice)"
-          ],
-          "description": "Netflix original animated season following Lara Croft racing across the globe to stop a tech-minded antagonist; platform-original animation.",
-          "theatrical_info": ""
-        },
-        {
-          "title": "Lost in the Spotlight",
-          "release_date": "2025-12-11",
-          "type": "movie",
-          "genre": "Drama",
-          "language": "English",
-          "content_category": "indie",
-          "release_type": "Direct-to-OTT",
-          "actors": [
-            "(Principal cast not specified in sources)"
-          ],
-          "description": "Netflix original dramatic film (Part of weekly Netflix drops) added to US library; direct-to-OTT release.",
-          "theatrical_info": ""
-        },
-        {
-          "title": "Had I Not Seen the Sun (Part 2)",
-          "release_date": "2025-12-11",
+          "title": "Blood Coast – Season 2",
+          "release_date": "2025-12-08",
           "type": "series",
           "genre": "Drama",
           "language": "English",
           "content_category": "indie",
           "release_type": "Direct-to-OTT",
           "actors": [
-            "(Principal cast not specified in sources)"
+            "Principal cast credited on platform"
           ],
-          "description": "Continuation (Part 2) of the Netflix original limited series; direct-to-OTT release in Netflix US.",
+          "description": "Second season of the coastal Irish crime drama; Netflix original series returning for more episodes.",
           "theatrical_info": ""
-        },
-        {
-          "title": "City of Shadows (Season 1)",
-          "release_date": "2025-12-12",
-          "type": "series",
-          "genre": "Crime/Thriller",
-          "language": "Spanish",
-          "content_category": "international",
-          "release_type": "Direct-to-OTT",
-          "actors": [
-            "(Principal cast not specified in sources)"
-          ],
-          "description": "Spanish-language Netflix original series set in Barcelona featuring a disgraced detective investigating a shocking murder; released with English subtitles/dub options on Netflix US.",
-          "theatrical_info": ""
-        },
-        {
-          "title": "Home for Christmas (Season 3)",
-          "release_date": "2025-12-12",
-          "type": "series",
-          "genre": "Holiday/Drama",
-          "language": "English",
-          "content_category": "mainstream",
-          "release_type": "Direct-to-OTT",
-          "actors": [
-            "(Principal cast not specified in sources)"
-          ],
-          "description": "Netflix original Season 3 of the holiday drama/romcom series returning for the festive season; direct-to-OTT release.",
-          "theatrical_info": ""
-        },
-        {
-          "title": "Wake Up Dead Man: A Knives Out Mystery",
-          "release_date": "2025-12-12",
-          "type": "movie",
-          "genre": "Mystery/Comedy",
-          "language": "English",
-          "content_category": "mainstream",
-          "release_type": "Direct-to-OTT",
-          "actors": [
-            "Daniel Craig",
-            "Josh Brolin",
-            "Glenn Close",
-            "Mila Kunis"
-          ],
-          "description": "Netflix original third Knives Out mystery directed by Rian Johnson; star-studded ensemble and Netflix platform-original feature exclusive to Netflix US.",
-          "theatrical_info": ""
-        },
-        {
-          "title": "The Talented Mr. Ripley",
-          "release_date": "2025-12-13",
-          "type": "movie",
-          "genre": "Thriller/Drama",
-          "language": "English",
-          "content_category": "catalog",
-          "release_type": "Catalog Addition",
-          "actors": [
-            "Matt Damon",
-            "Jude Law",
-            "Gwyneth Paltrow"
-          ],
-          "description": "1999 Anthony Minghella thriller added to Netflix US catalog during this week; catalog acquisition addition.",
-          "theatrical_info": "Original theatrical release: 1999-11-19"
-        },
-        {
-          "title": "PAW Patrol: The Mighty Movie",
-          "release_date": "2025-12-14",
-          "type": "movie",
-          "genre": "Family/Animation",
-          "language": "English",
-          "content_category": "animation",
-          "release_type": "Catalog Addition",
-          "actors": [
-            "Lily Brooks O'Briant (voice)",
-            "Christian Convery (voice)"
-          ],
-          "description": "2023 family animated feature joining Netflix US catalog on this date; catalog addition for family audiences.",
-          "theatrical_info": "Original theatrical release: 2023-10-13"
         }
       ]
     },
@@ -274,24 +155,23 @@
           "actors": [
             "Zooey Deschanel",
             "Charlie Cox",
-            "Chris Redd",
-            "Patricia Heaton"
+            "Chris Redd"
           ],
-          "description": "Prime Video original rom-com about relationships and pet custody starring Zooey Deschanel and Charlie Cox; platform original streaming debut in the US.",
+          "description": "Prime Video original rom-com about a dog named Merv and relationship cross-currents, platform exclusive.",
           "theatrical_info": ""
         },
         {
           "title": "Oh. What. Fun.",
           "release_date": "2025-12-03",
           "type": "movie",
-          "genre": "Holiday Comedy",
+          "genre": "Holiday/Comedy",
           "language": "English",
           "content_category": "mainstream",
           "release_type": "Direct-to-OTT",
           "actors": [
             "Michelle Pfeiffer"
           ],
-          "description": "Prime Video holiday film starring Michelle Pfeiffer as an overworked mom on a personal holiday adventure; direct-to-OTT Prime original (note: release falls earlier in December but included in weekly roundups).",
+          "description": "Prime Video holiday film starring Michelle Pfeiffer; previously listed for early December platform release (included for comprehensive weekly context).",
           "theatrical_info": ""
         }
       ]
@@ -301,63 +181,35 @@
       "name": "Disney+",
       "releases": [
         {
-          "title": "Percy Jackson and the Olympians (Season 2)",
+          "title": "Percy Jackson and the Olympians – Season 2 (weekly)",
           "release_date": "2025-12-10",
           "type": "series",
-          "genre": "Fantasy/Adventure",
+          "genre": "Fantasy/Action",
           "language": "English",
           "content_category": "mainstream",
           "release_type": "Direct-to-OTT",
           "actors": [
             "Walker Scobell",
-            "Leah Sava Jeffries",
-            "Aryan Simhadri"
+            "Aryan Simhadri",
+            "Olivia-Mai Barrett"
           ],
-          "description": "Disney+ original Season 2 adapting Rick Riordan's The Sea of Monsters; high-profile franchise series returning to the platform as a Disney+ exclusive.",
+          "description": "Second season continuing the Percy Jackson adaptation (episodes rolling out weekly on Disney+; platform original).",
           "theatrical_info": ""
         },
         {
-          "title": "Taylor Swift: The Eras Tour — The End Of An Era / The Final Show",
+          "title": "Taylor Swift: The Eras Tour – The Final Show (concert) / The Eras Tour: The End of an Era (docuseries)",
           "release_date": "2025-12-12",
           "type": "series",
-          "genre": "Documentary/Concert",
+          "genre": "Music Documentary/Concert",
           "language": "English",
           "content_category": "documentary",
           "release_type": "Direct-to-OTT",
           "actors": [
             "Taylor Swift",
             "Sabrina Carpenter",
-            "Ed Sheeran (featured)"
+            "Ed Sheeran"
           ],
-          "description": "Two related Disney+ releases: a six-part documentary miniseries narrated by Taylor Swift exploring the Eras Tour, plus a full-concert film of the tour's final Vancouver show; Disney+ originals exclusive to the platform.",
-          "theatrical_info": ""
-        },
-        {
-          "title": "I AM BOXER (Episode 3)",
-          "release_date": "2025-12-08",
-          "type": "series",
-          "genre": "Documentary/Sports",
-          "language": "English",
-          "content_category": "documentary",
-          "release_type": "Direct-to-OTT",
-          "actors": [
-            "(Subjects featured)"
-          ],
-          "description": "Episode 3 of the Disney+ docuseries focused on boxing; platform original episodic release.",
-          "theatrical_info": ""
-        },
-        {
-          "title": "Star Wars: Young Jedi Adventures (new episode)",
-          "release_date": "2025-12-11",
-          "type": "series",
-          "genre": "Animation/Family",
-          "language": "English",
-          "content_category": "animation",
-          "release_type": "Direct-to-OTT",
-          "actors": [
-            "(Voice cast)"
-          ],
-          "description": "New episode release for the animated Star Wars preschool series on Disney+; direct-to-OTT episodic release exclusive to Disney+.",
+          "description": "Two Disney+ Taylor Swift exclusives: a six-part docuseries and a full concert film from the tour's final Vancouver show; platform exclusive.",
           "theatrical_info": ""
         }
       ]
@@ -367,17 +219,31 @@
       "name": "Hulu",
       "releases": [
         {
+          "title": "90 Day Fiancé: Before the 90 Days – Season 8",
+          "release_date": "2025-12-08",
+          "type": "series",
+          "genre": "Reality",
+          "language": "English",
+          "content_category": "reality",
+          "release_type": "Direct-to-OTT",
+          "actors": [
+            "Cast (series regulars/participants vary by episode)"
+          ],
+          "description": "New season of the long-running reality franchise; Hulu platform release (seasonal reality content).",
+          "theatrical_info": ""
+        },
+        {
           "title": "All's Fair",
-          "release_date": "2025-12-01",
+          "release_date": "TBA",
           "type": "series",
           "genre": "Legal Dramedy",
           "language": "English",
           "content_category": "mainstream",
           "release_type": "Direct-to-OTT",
           "actors": [
-            "(Principal cast not specified in sources)"
+            "Principal cast credited on platform"
           ],
-          "description": "Hulu original legal dramedy that premiered earlier in December; included in December programming roundups though its initial release date is Dec 1.",
+          "description": "Hulu original legal dramedy (date listed as TBA if not officially confirmed for this week).",
           "theatrical_info": ""
         }
       ]
@@ -392,45 +258,31 @@
       "name": "Max",
       "releases": [
         {
-          "title": "Sarah Sherman: Live + In the Flesh",
+          "title": "Spinal Tap II: The End Continues",
           "release_date": "2025-12-12",
           "type": "movie",
-          "genre": "Standup Comedy",
+          "genre": "Comedy",
+          "language": "English",
+          "content_category": "mainstream",
+          "release_type": "Direct-to-OTT",
+          "actors": [
+            "Original ensemble (returning cast members credited on platform)"
+          ],
+          "description": "Sequel to the cult classic This Is Spinal Tap; Max streaming release and platform exclusive in the US.",
+          "theatrical_info": ""
+        },
+        {
+          "title": "Sarah Squirm: Live + In the Flesh",
+          "release_date": "2025-12-12",
+          "type": "movie",
+          "genre": "Standup/Comedy Special",
           "language": "English",
           "content_category": "comedy",
           "release_type": "Direct-to-OTT",
           "actors": [
             "Sarah Sherman"
           ],
-          "description": "HBO/Max original stand-up special from Saturday Night Live alumnus Sarah Sherman premiering on Max; direct-to-OTT exclusive special.",
-          "theatrical_info": ""
-        },
-        {
-          "title": "Spinal Tap II: The End Continues",
-          "release_date": "2025-12-12",
-          "type": "movie",
-          "genre": "Comedy/Music",
-          "language": "English",
-          "content_category": "mainstream",
-          "release_type": "Direct-to-OTT",
-          "actors": [
-            "(Franchise cast)"
-          ],
-          "description": "Sequel to the cult rock mockumentary added to Max/HBO release schedule as a streaming premiere; platform-original/streaming debut.",
-          "theatrical_info": ""
-        },
-        {
-          "title": "It: Welcome to Derry (Season 1 finale)",
-          "release_date": "2025-12-14",
-          "type": "series",
-          "genre": "Horror/Drama",
-          "language": "English",
-          "content_category": "mainstream",
-          "release_type": "Direct-to-OTT",
-          "actors": [
-            "Bill Skarsgård (appears late in season)"
-          ],
-          "description": "Season finale of the HBO Max horror series prequel to the It films, concluding the first season on Max; original Max/HBO production.",
+          "description": "First-ever stand-up special from Saturday Night Live's Sarah Sherman; HBO/Max original special.",
           "theatrical_info": ""
         }
       ]
@@ -443,31 +295,30 @@
           "title": "Little Disasters",
           "release_date": "2025-12-11",
           "type": "series",
-          "genre": "Drama/Miniseries",
+          "genre": "Drama/Limited Series",
           "language": "English",
-          "content_category": "indie",
+          "content_category": "mainstream",
           "release_type": "Direct-to-OTT",
           "actors": [
             "Diane Kruger",
             "Jo Joyner",
-            "Shelley Conn",
-            "Emily Taaffe"
+            "Shelley Conn"
           ],
-          "description": "British six-episode limited series on Paramount+ starring Diane Kruger; direct-to-OTT miniseries premiere on the service.",
+          "description": "Six-episode UK limited series starring Diane Kruger; Paramount+ exclusive in the US.",
           "theatrical_info": ""
         },
         {
-          "title": "Predators (Documentary)",
+          "title": "Predators (documentary)",
           "release_date": "2025-12-08",
           "type": "movie",
-          "genre": "Documentary",
+          "genre": "Documentary/Investigative",
           "language": "English",
           "content_category": "documentary",
           "release_type": "Direct-to-OTT",
           "actors": [
-            "(Filmmaker/interview subjects)"
+            "David Osit (filmmaker/interview subjects)"
           ],
-          "description": "Documentary examining the legacy of To Catch a Predator and related cultural issues, premiering on Paramount+; platform release in US.",
+          "description": "Investigative documentary on the To Catch a Predator franchise and its cultural legacy; premiering on Paramount+/MTV.",
           "theatrical_info": ""
         }
       ]
@@ -477,7 +328,7 @@
       "name": "Peacock",
       "releases": [
         {
-          "title": "Bel-Air (Three-part series finale)",
+          "title": "Bel-Air – Series Finale (3-part drop)",
           "release_date": "2025-12-08",
           "type": "series",
           "genre": "Drama",
@@ -485,11 +336,9 @@
           "content_category": "mainstream",
           "release_type": "Direct-to-OTT",
           "actors": [
-            "Jabari Banks",
-            "Coco Jones",
-            "Olly Sholotan"
+            "Cast (principal actors credited on platform)"
           ],
-          "description": "Peacock released the three-part finale of Bel-Air all at once on Dec 8; Peacock original series conclusion.",
+          "description": "Three-part series finale of Peacock's Bel-Air drops in full on Peacock; platform original exclusive.",
           "theatrical_info": ""
         }
       ]
@@ -499,17 +348,17 @@
       "name": "Discovery+",
       "releases": [
         {
-          "title": "Wizkid: Long Live Lagos",
-          "release_date": "2025-12-11",
-          "type": "movie",
-          "genre": "Documentary/Music",
+          "title": "Fixer to Fabulous – Season 7",
+          "release_date": "2025-12-03",
+          "type": "series",
+          "genre": "Reality/Home Improvement",
           "language": "English",
-          "content_category": "documentary",
+          "content_category": "reality",
           "release_type": "Direct-to-OTT",
           "actors": [
-            "Wizkid (subject)"
+            "Series hosts (platform credits)"
           ],
-          "description": "Discovery+/HBO affiliated documentary (listed in editorial roundups) focusing on Nigerian artist Wizkid and his Lagos roots; platform release in US.",
+          "description": "New season of the home-renovation series available on Discovery+; included here for week context when applicable.",
           "theatrical_info": ""
         }
       ]
@@ -519,7 +368,7 @@
       "name": "Starz",
       "releases": [
         {
-          "title": "Spartacus: House of Ashur (Season 1)",
+          "title": "Spartacus: House of Ashur – Season 1",
           "release_date": "2025-12-05",
           "type": "series",
           "genre": "Action/Drama",
@@ -527,9 +376,9 @@
           "content_category": "mainstream",
           "release_type": "Direct-to-OTT",
           "actors": [
-            "(Principal cast not specified in sources)"
+            "Principal cast credited on platform"
           ],
-          "description": "New season/series entry in the Spartacus franchise on Starz; premiered earlier in December and appears in December platform guides.",
+          "description": "New Spartacus-series entry available on Starz (platform original series).",
           "theatrical_info": ""
         }
       ]

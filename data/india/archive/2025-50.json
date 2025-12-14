@@ -11,7 +11,7 @@
     "name": "India",
     "flag": "🇮🇳"
   },
-  "generated_at": "2025-12-13T09:02:17.532Z",
+  "generated_at": "2025-12-14T01:22:20.969Z",
   "platforms": [
     {
       "id": "netflix",
@@ -27,19 +27,19 @@
           "actors": [
             "Dulquer Salmaan",
             "Bhagyashri Borse",
-            "Samuthirakani",
-            "Rana Daggubati"
+            "Rana Daggubati",
+            "Samuthirani"
           ],
           "dubbing": "TBA",
           "release_type": "Post-Theatrical",
-          "description": "Set in 1950s Madras Presidency, the film explores ego clashes between a star actor and his director amid a mystery investigation. Dulquer Salmaan anchors this slow-burning cinematic indulgence."
+          "description": "Set in the 1950s Madras Presidency, the film revolves around the ego clash between a star actor and the director who introduced him."
         },
         {
           "title": "Single Papa",
           "release_date": "2025-12-12",
           "type": "movie",
           "industry": "Bollywood/Hindi",
-          "genre": "Romantic Comedy",
+          "genre": "Comedy-Drama",
           "language": "Hindi",
           "actors": [
             "Kunal Kemmu",
@@ -49,128 +49,35 @@
           ],
           "dubbing": "TBA",
           "release_type": "Direct-to-OTT",
-          "description": "A freshly divorced manchild adopts a baby, exploring his transition to single fatherhood amid family chaos in a desi backdrop. Light-hearted comedy on modern parenthood."
+          "description": "A freshly divorced manchild shocks his family by adopting a baby, exploring his transition to single fatherhood amid family chaos."
         },
         {
-          "title": "Man vs Baby",
+          "title": "The Accident Season 2",
           "release_date": "2025-12-11",
           "type": "series",
-          "industry": "Hollywood/English",
-          "genre": "Comedy",
+          "industry": "International/English",
+          "genre": "Drama",
           "language": "English",
           "actors": [
             "TBA"
           ],
-          "dubbing": "TBA",
+          "dubbing": "Hindi",
           "release_type": "Direct-to-OTT",
-          "description": "A comedic series on the challenges of manhood versus fatherhood. New Netflix original hitting screens this week."
+          "description": "Season 2 of the drama series streaming on Netflix."
         },
         {
           "title": "Wake Up Dead Man: A Knives Out Mystery",
           "release_date": "2025-12-12",
           "type": "movie",
-          "industry": "Hollywood/English",
-          "genre": "Mystery Thriller",
+          "industry": "International/English",
+          "genre": "Mystery",
           "language": "English",
           "actors": [
             "TBA"
           ],
-          "dubbing": "TBA",
+          "dubbing": "Hindi",
           "release_type": "Direct-to-OTT",
-          "description": "The latest Knives Out mystery unfolds with suspense and twists. Streaming premiere on Netflix."
-        }
-      ]
-    },
-    {
-      "id": "prime-video",
-      "name": "Prime Video",
-      "releases": []
-    },
-    {
-      "id": "disney-plus-hotstar",
-      "name": "Disney+ Hotstar",
-      "releases": [
-        {
-          "title": "Percy Jackson and the Olympians Season 2",
-          "release_date": "2025-12-10",
-          "type": "series",
-          "industry": "Hollywood/English",
-          "genre": "Action Adventure Fantasy",
-          "language": "English",
-          "actors": [
-            "Walker Scobell",
-            "Leah Sava Jeffries",
-            "Aryan Simhadri"
-          ],
-          "dubbing": "Hindi, Tamil, Telugu, Malayalam",
-          "release_type": "Direct-to-OTT",
-          "description": "Percy, Annabeth, and Tyson embark on a quest into the Sea of Monsters to retrieve the Golden Fleece and save Camp Half-Blood. Fantasy adventure for young audiences."
-        },
-        {
-          "title": "Superman",
-          "release_date": "2025-12-11",
-          "type": "movie",
-          "industry": "Hollywood/English",
-          "genre": "Superhero Action",
-          "language": "English",
-          "actors": [
-            "David Corenswet",
-            "Rachel Brosnahan",
-            "Nicholas Hoult"
-          ],
-          "dubbing": "Hindi, Tamil, Telugu, Malayalam",
-          "release_type": "Post-Theatrical",
-          "description": "James Gunn's reboot features the Man of Steel in a well-received superhero tale with an IMDb rating of 7.1. Digital premiere on the platform."
-        },
-        {
-          "title": "The Great Shamsuddin Family",
-          "release_date": "2025-12-12",
-          "type": "movie",
-          "industry": "Bollywood/Hindi",
-          "genre": "Comedy Drama",
-          "language": "Hindi",
-          "actors": [
-            "Kritika Kamra",
-            "Sheeba Chaddha",
-            "Shreya Dhanwanthary"
-          ],
-          "dubbing": "TBA",
-          "release_type": "Direct-to-OTT",
-          "description": "A writer faces family chaos and rivalries while racing against a deadline. Heartwarming tale of emotional meltdowns and drama."
-        },
-        {
-          "title": "Taylor Swift: The Eras Tour – The Final Show",
-          "release_date": "2025-12-12",
-          "type": "movie",
-          "industry": "Hollywood/English",
-          "genre": "Concert Documentary",
-          "language": "English",
-          "actors": [
-            "Taylor Swift"
-          ],
-          "dubbing": "TBA",
-          "release_type": "Direct-to-OTT",
-          "description": "Docuseries capturing glimpses from Taylor Swift's record-breaking Eras Tour final show. Available for Indian viewers."
-        }
-      ]
-    },
-    {
-      "id": "sonyliv",
-      "name": "SonyLIV",
-      "releases": [
-        {
-          "title": "Real Kashmir Football Club",
-          "release_date": "2025-12-09",
-          "type": "movie",
-          "industry": "Bollywood/Hindi",
-          "genre": "Sports Drama",
-          "language": "Hindi",
-          "actors": [
-            "TBA"
-          ],
-          "dubbing": "TBA",
-          "release_type": "Post-Theatrical",
-          "description": "Inspirational tale based on the Real Kashmir football club's journey. Streaming premiere this week."
+          "description": "A new installment in the Knives Out mystery series."
         }
       ]
     },
@@ -187,26 +94,65 @@
           "language": "Hindi",
           "actors": [
             "Radhika Apte",
-            "Divyenndu Sharma",
-            "Anurag Kashyap"
+            "Divyendu Sharma"
           ],
           "dubbing": "TBA",
           "release_type": "Direct-to-OTT",
-          "description": "A housewife's peaceful life shatters after a double murder, uncovering deceit, adultery, and treachery in her town. Riveting parallel timeframe thriller."
+          "description": "A suspense thriller produced under Manish Malhotra's banner, featuring intense drama and mystery."
+        }
+      ]
+    },
+    {
+      "id": "disney-plus-hotstar",
+      "name": "Disney+ Hotstar",
+      "releases": [
+        {
+          "title": "Superman",
+          "release_date": "2025-12-11",
+          "type": "movie",
+          "industry": "Hollywood/English",
+          "genre": "Superhero Action",
+          "language": "English",
+          "actors": [
+            "David Corenswet",
+            "Rachel Brosnahan",
+            "Nicholas Hoult"
+          ],
+          "dubbing": "Hindi, Tamil, Telugu, Malayalam",
+          "release_type": "Post-Theatrical",
+          "description": "James Gunn's superhero film with an IMDb rating of 7.1, now streaming in India."
         },
         {
-          "title": "Kesariya@100",
+          "title": "The Great Shamsuddin Family",
           "release_date": "2025-12-12",
           "type": "movie",
           "industry": "Bollywood/Hindi",
-          "genre": "Historical Documentary",
+          "genre": "Comedy Drama",
           "language": "Hindi",
           "actors": [
-            "TBA"
+            "Kritika Kamra",
+            "Sheeba Chaddha",
+            "Shreya Dhanwanthary"
           ],
           "dubbing": "TBA",
           "release_type": "Direct-to-OTT",
-          "description": "Historical documentary marking 100 years of Kesariya. Gripping exploration of historical events."
+          "description": "A writer tackles her deadline amid family chaos in this comedy drama."
+        },
+        {
+          "title": "Percy Jackson and the Olympians Season 2",
+          "release_date": "2025-12-10",
+          "type": "series",
+          "industry": "Hollywood/English",
+          "genre": "Adventure Fantasy",
+          "language": "English",
+          "actors": [
+            "Walker Scobell",
+            "Leah Sava Jeffries",
+            "Aryan Simhadri"
+          ],
+          "dubbing": "Hindi, Tamil, Telugu",
+          "release_type": "Direct-to-OTT",
+          "description": "Season 2 of the adventure series based on the books."
         }
       ]
     },
@@ -216,24 +162,34 @@
       "releases": []
     },
     {
-      "id": "aha",
-      "name": "Aha",
+      "id": "sonyliv",
+      "name": "SonyLIV",
       "releases": [
         {
-          "title": "3 Roses Season 2",
-          "release_date": "2025-12-12",
-          "type": "series",
-          "industry": "Tollywood/Telugu",
-          "genre": "Comedy Drama Thriller",
-          "language": "Telugu",
+          "title": "Real Kashmir Football Club",
+          "release_date": "2025-12-09",
+          "type": "movie",
+          "industry": "Bollywood/Hindi",
+          "genre": "Sports Drama",
+          "language": "Hindi",
           "actors": [
             "TBA"
           ],
           "dubbing": "TBA",
           "release_type": "Direct-to-OTT",
-          "description": "Three friends relocate to Mumbai, start an ad business, but face a gangster's pursuit turning their lives into a thrilling chase. Telugu web series continuation."
+          "description": "A sports drama centered on football in Kashmir."
         }
       ]
+    },
+    {
+      "id": "prime-video",
+      "name": "Prime Video",
+      "releases": []
+    },
+    {
+      "id": "aha",
+      "name": "Aha",
+      "releases": []
     },
     {
       "id": "hoichoi",
