@@ -42,7 +42,7 @@ concurrency:
 jobs:
   fetch-custom-dates:
     name: Fetch Releases for ${{ inputs.start_date }} to ${{ inputs.end_date }}
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     
     steps:
       - name: Checkout repository

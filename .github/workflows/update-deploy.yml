@@ -44,7 +44,7 @@ jobs:
   # Job 1: Fetch data from Perplexity API
   fetch-data:
     name: Fetch OTT Releases
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     # Run on schedule, or manual dispatch (unless skip_api is true)
     # Skip on push events (deploy only)
     if: |
