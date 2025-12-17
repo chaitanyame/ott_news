@@ -11,110 +11,8 @@
     "name": "India",
     "flag": "🇮🇳"
   },
-  "generated_at": "2025-12-16T09:05:07.816Z",
+  "generated_at": "2025-12-17T09:05:04.566Z",
   "platforms": [
-    {
-      "id": "netflix",
-      "name": "Netflix",
-      "releases": [
-        {
-          "title": "Ek Deewane Ki Deewaniyat",
-          "release_date": "2025-12-16",
-          "type": "series",
-          "industry": "Bollywood/Hindi",
-          "genre": "Romantic Thriller",
-          "language": "Hindi",
-          "actors": [
-            "Actor details not fully published",
-            "Actor details not fully published",
-            "Actor details not fully published"
-          ],
-          "dubbing": "Hindi",
-          "release_type": "Direct-to-OTT",
-          "description": "A romantic thriller about obsessive love and the consequences of crossing moral lines."
-        },
-        {
-          "title": "Raat Akeli Hai: The Bansal Murders",
-          "release_date": "2025-12-19",
-          "type": "movie",
-          "industry": "Bollywood/Hindi",
-          "genre": "Crime Thriller",
-          "language": "Hindi",
-          "actors": [
-            "Nawazuddin Siddiqui",
-            "Radhika Apte",
-            "Shweta Tripathi"
-          ],
-          "dubbing": "Hindi, (other dubbed versions TBA)",
-          "release_type": "Direct-to-OTT",
-          "description": "Inspector Jatil Yadav investigates a gruesome family murder that exposes long-buried secrets."
-        },
-        {
-          "title": "The Great Indian Kapil Show - Season 4",
-          "release_date": "2025-12-20",
-          "type": "series",
-          "industry": "Bollywood/Hindi",
-          "genre": "Comedy/Variety",
-          "language": "Hindi",
-          "actors": [
-            "Kapil Sharma",
-            "Sunil Grover",
-            "Kiku Sharda"
-          ],
-          "dubbing": "Hindi",
-          "release_type": "Direct-to-OTT",
-          "description": "Kapil Sharma returns with celebrity interviews, sketches and comedic segments in the fourth season."
-        },
-        {
-          "title": "Emily in Paris - Season 5",
-          "release_date": "2025-12-18",
-          "type": "series",
-          "industry": "International/English",
-          "genre": "Romantic Comedy-Drama",
-          "language": "English",
-          "actors": [
-            "Lily Collins",
-            "Philippine Leroy-Beaulieu",
-            "Ashley Park"
-          ],
-          "dubbing": "English, (Hindi/Tamil/Telugu dubbing availability TBA)",
-          "release_type": "Direct-to-OTT",
-          "description": "Emily navigates life, love and career in Paris in the fifth season of the hit series."
-        },
-        {
-          "title": "Premante",
-          "release_date": "2025-12-19",
-          "type": "movie",
-          "industry": "Tollywood/Telugu",
-          "genre": "Romance",
-          "language": "Telugu",
-          "actors": [
-            "Actor details not fully published",
-            "Actor details not fully published",
-            "Actor details not fully published"
-          ],
-          "dubbing": "Telugu, (dubbed versions TBA)",
-          "release_type": "Direct-to-OTT",
-          "description": "A Telugu-language romantic drama arriving on Netflix during the week."
-        },
-        {
-          "title": "Raat Akeli Hai (International listing duplicate)",
-          "release_date": "2025-12-19",
-          "type": "movie",
-          "industry": "Bollywood/Hindi",
-          "genre": "Crime Thriller",
-          "language": "Hindi",
-          "actors": [
-            "Nawazuddin Siddiqui",
-            "Radhika Apte",
-            "Shweta Tripathi"
-          ],
-          "dubbing": "Hindi",
-          "release_type": "Direct-to-OTT",
-          "description": "Listed across week roundups as Netflix's December 19 Hindi crime thriller."
-        }
-      ]
-    },
     {
       "id": "prime-video",
       "name": "Prime Video",
@@ -123,36 +21,18 @@
           "title": "Thamma",
           "release_date": "2025-12-16",
           "type": "movie",
-          "industry": "Bollywood/Hindi (Pan-India elements)",
-          "genre": "Supernatural Comedy",
+          "industry": "Bollywood/Hindi",
+          "genre": "Horror Comedy",
           "language": "Hindi",
           "actors": [
-            "Ayushmann Khurrana",
-            "Rashmika Mandanna",
-            "Nawazuddin Siddiqui"
+            "Kartik Aaryan"
           ],
-          "dubbing": "Hindi, Telugu, Tamil, Malayalam (Pan-India release/dubbing indicated)",
-          "release_type": "Direct-to-OTT",
-          "description": "A vampire-themed supernatural comedy mixing romance, folklore and humour in a Maddock Films universe entry."
+          "dubbing": "",
+          "release_type": "Post-Theatrical",
+          "description": "Fifth installment in the Maddock Horror Comedy Universe blending romance, horror, and humor. Follows shy journalist Alok Goyal whose life changes after a mysterious woman Tadaka saves him from a bear attack.[1][3]"
         },
         {
-          "title": "Fallout - Season 2",
-          "release_date": "2025-12-17",
-          "type": "series",
-          "industry": "International/English",
-          "genre": "Post-apocalyptic Drama",
-          "language": "English",
-          "actors": [
-            "Series cast details",
-            "Series cast details",
-            "Series cast details"
-          ],
-          "dubbing": "English, (Indian language dubs TBA)",
-          "release_type": "Direct-to-OTT",
-          "description": "Second season of the TV adaptation set in the Fallout universe following survivors after nuclear war."
-        },
-        {
-          "title": "Four More Shots Please! - Season 4",
+          "title": "Four More Shots Please! Season 4",
           "release_date": "2025-12-19",
           "type": "series",
           "industry": "Bollywood/Hindi",
@@ -161,27 +41,60 @@
           "actors": [
             "Sayani Gupta",
             "Kirti Kulhari",
-            "Sobhita Dhulipala"
+            "Bani J",
+            "Mrunal Thakur"
           ],
-          "dubbing": "Hindi, (dubbed audio TBA)",
+          "dubbing": "",
           "release_type": "Direct-to-OTT",
-          "description": "Final season following the lives and relationships of four friends dealing with careers and love."
-        },
+          "description": "Final season brings closure to four friends navigating love, ambition, heartbreak, and identity with bold storytelling and female-led narrative.[1][3]"
+        }
+      ]
+    },
+    {
+      "id": "netflix",
+      "name": "Netflix",
+      "releases": [
         {
-          "title": "Thamma (Early Access note)",
-          "release_date": "2025-12-02",
+          "title": "Ek Deewane Ki Deewaniyat",
+          "release_date": "2025-12-16",
           "type": "movie",
           "industry": "Bollywood/Hindi",
-          "genre": "Supernatural Comedy",
+          "genre": "Romantic Drama",
           "language": "Hindi",
           "actors": [
-            "Ayushmann Khurrana",
-            "Rashmika Mandanna",
+            "Unknown"
+          ],
+          "dubbing": "",
+          "release_type": "Direct-to-OTT",
+          "description": "Intense romantic drama exploring obsession, power, and toxic love. Revolves around Vikramaditya Bhonsle, arrogant son of a politician, fixated on independent actor Adaa Randhawa.[1]"
+        },
+        {
+          "title": "Raat Akeli Hai: The Bansal Murders",
+          "release_date": "2025-12-19",
+          "type": "series",
+          "industry": "Bollywood/Hindi",
+          "genre": "Crime Thriller",
+          "language": "Hindi",
+          "actors": [
             "Nawazuddin Siddiqui"
           ],
-          "dubbing": "Hindi, Telugu, Tamil, Malayalam",
-          "release_type": "Post-Theatrical (Early Access rental followed by full OTT availability)",
-          "description": "Prime staggered the rollout with early-access rental before full Prime availability on December 16."
+          "dubbing": "",
+          "release_type": "Direct-to-OTT",
+          "description": "Spiritual sequel to 2020 hit with Nawazuddin Siddiqui as Inspector Jatil Yadav investigating the brutal murder of the wealthy Bansal family amid political influence and secrets.[1][2][3]"
+        },
+        {
+          "title": "The Great Indian Kapil Show Season 4",
+          "release_date": "2025-12-20",
+          "type": "series",
+          "industry": "Bollywood/Hindi",
+          "genre": "Comedy Talk Show",
+          "language": "Hindi",
+          "actors": [
+            "Kapil Sharma"
+          ],
+          "dubbing": "",
+          "release_type": "Direct-to-OTT",
+          "description": "Kapil Sharma returns with sketches, celebrity guests, and ensemble cast promising bigger laughs and family-friendly entertainment.[1][3]"
         }
       ]
     },
@@ -190,295 +103,70 @@
       "name": "Disney+ Hotstar",
       "releases": [
         {
-          "title": "Mrs. Deshpande",
+          "title": "Mrs Deshpande",
           "release_date": "2025-12-19",
           "type": "series",
           "industry": "Bollywood/Hindi",
-          "genre": "Psychological Thriller",
+          "genre": "Psychological Crime Thriller",
           "language": "Hindi",
           "actors": [
-            "Madhuri Dixit",
-            "Actor details not fully published",
-            "Actor details not fully published"
+            "Madhuri Dixit"
           ],
-          "dubbing": "Hindi, (other dubs TBA)",
-          "release_type": "Direct-to-OTT",
-          "description": "A convicted serial killer is compelled to help police when a copycat begins replicating her past crimes."
-        },
-        {
-          "title": "Pharma",
-          "release_date": "2025-12-19",
-          "type": "movie",
-          "industry": "Bollywood/Hindi",
-          "genre": "Social Drama",
-          "language": "Hindi",
-          "actors": [
-            "Actor details not fully published",
-            "Actor details not fully published",
-            "Actor details not fully published"
-          ],
-          "dubbing": "Hindi",
-          "release_type": "Direct-to-OTT",
-          "description": "A social commentary film exploring ethical and systemic issues in the pharmaceutical sector."
-        }
-      ]
-    },
-    {
-      "id": "sonyliv",
-      "name": "SonyLIV",
-      "releases": [
-        {
-          "title": "No confirmed Hindi releases this period",
-          "release_date": "TBA",
-          "type": "movie",
-          "industry": "Bollywood/Hindi",
-          "genre": "N/A",
-          "language": "Hindi",
-          "actors": [],
           "dubbing": "",
-          "release_type": "TBA",
-          "description": "No confirmed SonyLIV original premieres specifically dated between 2025-12-15 and 2025-12-21 in listed sources."
+          "release_type": "Direct-to-OTT",
+          "description": "Gripping thriller inspired by La Mante starring Madhuri Dixit as a notorious serial killer helping catch a copycat murderer, forming an uneasy alliance with her estranged detective son.[1][2][3]"
         }
       ]
     },
     {
       "id": "zee5",
       "name": "ZEE5",
-      "releases": [
-        {
-          "title": "Heartiley Battery",
-          "release_date": "2025-12-16",
-          "type": "movie",
-          "industry": "Bollywood/Hindi",
-          "genre": "Slice-of-life / Romance",
-          "language": "Hindi",
-          "actors": [
-            "Actor details not fully published",
-            "Actor details not fully published",
-            "Actor details not fully published"
-          ],
-          "dubbing": "Hindi",
-          "release_type": "Direct-to-OTT",
-          "description": "A science-fiction romance/slice-of-life film exploring contemporary relationships with a unique tone."
-        },
-        {
-          "title": "Dominic and the Ladies' Purse",
-          "release_date": "2025-12-19",
-          "type": "movie",
-          "industry": "Mollywood/Malayalam",
-          "genre": "Mystery Comedy Thriller",
-          "language": "Malayalam",
-          "actors": [
-            "Mammootty",
-            "Actor details not fully published",
-            "Actor details not fully published"
-          ],
-          "dubbing": "Malayalam, Hindi, Telugu, Tamil (Pan-Indian dubbing indicated TBA)",
-          "release_type": "Direct-to-OTT",
-          "description": "A former cop turned private eye gets embroiled in a missing-purse case that escalates into a complicated mystery."
-        },
-        {
-          "title": "Nayanam",
-          "release_date": "2025-12-19",
-          "type": "movie",
-          "industry": "Tollywood/Telugu",
-          "genre": "Drama",
-          "language": "Telugu",
-          "actors": [
-            "Actor details not fully published",
-            "Actor details not fully published",
-            "Actor details not fully published"
-          ],
-          "dubbing": "Telugu, (dubbed versions TBA)",
-          "release_type": "Direct-to-OTT",
-          "description": "A Telugu-language drama arriving on ZEE5 during the week."
-        }
-      ]
+      "releases": []
     },
     {
       "id": "jiocinema",
       "name": "JioCinema",
-      "releases": [
-        {
-          "title": "Mrs Deshpande (alternate listing)",
-          "release_date": "2025-12-19",
-          "type": "series",
-          "industry": "Bollywood/Hindi",
-          "genre": "Psychological Thriller",
-          "language": "Hindi",
-          "actors": [
-            "Madhuri Dixit"
-          ],
-          "dubbing": "Hindi",
-          "release_type": "Direct-to-OTT",
-          "description": "Listed in multiple week-roundups as streaming on Jio's platform (some sources label JioHotstar/JioCinema interchangeably)."
-        },
-        {
-          "title": "Pharma (alternate listing)",
-          "release_date": "2025-12-19",
-          "type": "movie",
-          "industry": "Bollywood/Hindi",
-          "genre": "Social Drama",
-          "language": "Hindi",
-          "actors": [],
-          "dubbing": "Hindi",
-          "release_type": "Direct-to-OTT",
-          "description": "Listed across lineups as arriving on Jio's service during the week."
-        }
-      ]
+      "releases": []
     },
     {
       "id": "aha",
       "name": "Aha",
-      "releases": [
-        {
-          "title": "Mufti Police",
-          "release_date": "2025-12-19",
-          "type": "series",
-          "industry": "Tollywood/Telugu",
-          "genre": "Crime/Drama",
-          "language": "Telugu",
-          "actors": [
-            "Actor details not fully published",
-            "Actor details not fully published",
-            "Actor details not fully published"
-          ],
-          "dubbing": "Telugu",
-          "release_type": "Direct-to-OTT",
-          "description": "A Telugu crime drama listed for Aha during the week."
-        }
-      ]
+      "releases": []
     },
     {
       "id": "hoichoi",
       "name": "Hoichoi",
-      "releases": [
-        {
-          "title": "No confirmed Bengali releases this period",
-          "release_date": "TBA",
-          "type": "movie",
-          "industry": "Tollywood/Bengali",
-          "genre": "N/A",
-          "language": "Bengali",
-          "actors": [],
-          "dubbing": "",
-          "release_type": "TBA",
-          "description": "No confirmed Hoichoi-original premieres dated between 2025-12-15 and 2025-12-21 in the scanned sources."
-        }
-      ]
+      "releases": []
     },
     {
       "id": "sunnxt",
       "name": "SunNXT",
-      "releases": [
-        {
-          "title": "Divya Drushti",
-          "release_date": "2025-12-19",
-          "type": "series",
-          "industry": "Tollywood/Telugu (regional listing)",
-          "genre": "Supernatural",
-          "language": "Telugu",
-          "actors": [
-            "Actor details not fully published"
-          ],
-          "dubbing": "Telugu",
-          "release_type": "Direct-to-OTT",
-          "description": "A supernatural-genre title listed on SunNXT during the week."
-        },
-        {
-          "title": "Un Paarvayil",
-          "release_date": "2025-12-19",
-          "type": "movie",
-          "industry": "Kollywood/Tamil",
-          "genre": "Drama",
-          "language": "Tamil",
-          "actors": [
-            "Actor details not fully published"
-          ],
-          "dubbing": "Tamil",
-          "release_type": "Direct-to-OTT",
-          "description": "A Tamil-language film listed for SunNXT on week roundups."
-        }
-      ]
+      "releases": []
     },
     {
       "id": "manoramamax",
       "name": "ManoramaMAX",
-      "releases": [
-        {
-          "title": "No confirmed Malayalam releases specific to ManoramaMAX this period",
-          "release_date": "TBA",
-          "type": "movie",
-          "industry": "Mollywood/Malayalam",
-          "genre": "N/A",
-          "language": "Malayalam",
-          "actors": [],
-          "dubbing": "",
-          "release_type": "TBA",
-          "description": "No ManoramaMAX-original premieres dated between 2025-12-15 and 2025-12-21 found in the sources scanned."
-        }
-      ]
+      "releases": []
     },
     {
       "id": "etv-win",
       "name": "ETV Win",
-      "releases": [
-        {
-          "title": "Raju Weds Rambai",
-          "release_date": "2025-12-18",
-          "type": "movie",
-          "industry": "Tollywood/Telugu",
-          "genre": "Romantic Comedy",
-          "language": "Telugu",
-          "actors": [
-            "Actor details not fully published",
-            "Actor details not fully published",
-            "Actor details not fully published"
-          ],
-          "dubbing": "Telugu",
-          "release_type": "Direct-to-OTT",
-          "description": "A Telugu romantic comedy listed for ETV Win during the week."
-        }
-      ]
+      "releases": []
     },
     {
       "id": "planet-marathi",
       "name": "Planet Marathi",
-      "releases": [
-        {
-          "title": "No confirmed Marathi releases this period",
-          "release_date": "TBA",
-          "type": "movie",
-          "industry": "Marathi",
-          "genre": "N/A",
-          "language": "Marathi",
-          "actors": [],
-          "dubbing": "",
-          "release_type": "TBA",
-          "description": "No Planet Marathi original premieres dated between 2025-12-15 and 2025-12-21 were found in the scanned sources."
-        }
-      ]
+      "releases": []
     },
     {
       "id": "chaupal",
       "name": "Chaupal",
-      "releases": [
-        {
-          "title": "Shaunki Sardar",
-          "release_date": "2025-12-18",
-          "type": "movie",
-          "industry": "Punjabi",
-          "genre": "Drama/Comedy",
-          "language": "Punjabi",
-          "actors": [
-            "Actor details not fully published",
-            "Actor details not fully published"
-          ],
-          "dubbing": "Punjabi",
-          "release_type": "Direct-to-OTT",
-          "description": "A Punjabi-language title listed for Chaupal during the week."
-        }
-      ]
+      "releases": []
+    },
+    {
+      "id": "sonyliv",
+      "name": "SonyLIV",
+      "releases": []
     }
   ]
 }
