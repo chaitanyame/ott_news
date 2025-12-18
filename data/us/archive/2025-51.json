@@ -11,122 +11,192 @@
     "name": "United States",
     "flag": "🇺🇸"
   },
-  "generated_at": "2025-12-17T09:04:54.346Z",
+  "generated_at": "2025-12-18T09:03:55.062Z",
   "platforms": [
     {
       "id": "netflix",
       "name": "Netflix",
       "releases": [
         {
-          "title": "Emily in Paris (Season 5)",
-          "release_date": "2025-12-18",
-          "type": "series",
-          "genre": "Romantic comedy / Drama",
+          "title": "A Cowboy Christmas Romance",
+          "release_date": "2025-12-15",
+          "type": "movie",
+          "genre": "Romance",
           "language": "English",
           "content_category": "mainstream",
           "release_type": "Direct-to-OTT",
           "actors": [
-            "Lily Collins",
-            "Lucas Bravo",
-            "Philippine Leroy-Beaulieu"
+            "Not specified"
           ],
-          "description": "Fifth and reportedly final season of the rom-com drama following Emily as she relocates to Rome; full-season drop on Netflix and a high-profile streamer original.",
+          "description": "Holiday romance film arriving on Netflix.",
           "theatrical_info": ""
         },
         {
-          "title": "Culinary Class Wars (Season 2)",
+          "title": "Christmas at the Chalet",
+          "release_date": "2025-12-15",
+          "type": "movie",
+          "genre": "Romance",
+          "language": "English",
+          "content_category": "mainstream",
+          "release_type": "Direct-to-OTT",
+          "actors": [
+            "Not specified"
+          ],
+          "description": "Festive holiday romance exclusive to Netflix.",
+          "theatrical_info": ""
+        },
+        {
+          "title": "The Christmas Classic",
+          "release_date": "2025-12-15",
+          "type": "movie",
+          "genre": "Comedy",
+          "language": "English",
+          "content_category": "mainstream",
+          "release_type": "Direct-to-OTT",
+          "actors": [
+            "Not specified"
+          ],
+          "description": "Holiday comedy film streaming on Netflix.",
+          "theatrical_info": ""
+        },
+        {
+          "title": "Christmas on the Alpaca Farm",
+          "release_date": "2025-12-15",
+          "type": "movie",
+          "genre": "Family",
+          "language": "English",
+          "content_category": "mainstream",
+          "release_type": "Direct-to-OTT",
+          "actors": [
+            "Not specified"
+          ],
+          "description": "Heartwarming holiday family film on Netflix.",
+          "theatrical_info": ""
+        },
+        {
+          "title": "The Creature Cases: Chapter 6",
+          "release_date": "2025-12-15",
+          "type": "series",
+          "genre": "Animation",
+          "language": "English",
+          "content_category": "animation",
+          "release_type": "Direct-to-OTT",
+          "actors": [
+            "Not specified"
+          ],
+          "description": "Netflix family animation where agents Sam and Kit solve animal mysteries worldwide; Netflix original.",
+          "theatrical_info": ""
+        },
+        {
+          "title": "Castle Rock: Seasons 1-2",
           "release_date": "2025-12-16",
           "type": "series",
-          "genre": "Reality / Competition",
-          "language": "Korean",
-          "content_category": "reality",
-          "release_type": "Direct-to-OTT",
-          "actors": [
-            "N/A (ensemble competitors)",
-            "N/A",
-            "N/A"
-          ],
-          "description": "Korean competitive cooking series returning for a second season as a Netflix original (Korean-language; subtitled/dub options available in US).",
-          "theatrical_info": ""
-        },
-        {
-          "title": "Fallout (Season 2)",
-          "release_date": "2025-12-17",
-          "type": "series",
-          "genre": "Sci‑fi / Post‑apocalyptic",
+          "genre": "Horror",
           "language": "English",
           "content_category": "mainstream",
-          "release_type": "Direct-to-OTT",
+          "release_type": "Catalog Addition",
           "actors": [
-            "Ella Purnell",
-            "Walton Goggins",
-            "Aaron Moten"
+            "Not specified"
           ],
-          "description": "Second season of the Prime Video/streaming adaptation of the Fallout video games (included here because earlier reporting aggregated week releases across platforms); note: Prime Video exclusive (listed on Netflix trackers in error).",
+          "description": "Stephen King-inspired anthology series added to Netflix library.",
           "theatrical_info": ""
         },
         {
-          "title": "What's In The Box?",
-          "release_date": "2025-12-17",
+          "title": "Culinary Class Wars: Season 2",
+          "release_date": "2025-12-16",
           "type": "series",
-          "genre": "Game show",
-          "language": "English",
-          "content_category": "reality",
+          "genre": "Reality",
+          "language": "Korean",
+          "content_category": "international",
           "release_type": "Direct-to-OTT",
           "actors": [
-            "Neil Patrick Harris",
-            "N/A",
-            "N/A"
+            "Not specified"
           ],
-          "description": "Netflix original game show hosted by Neil Patrick Harris where contestants answer trivia to win or steal hidden prizes.",
+          "description": "Korean reality series featuring Black Spoon cooks vs White Spoon chefs; English subtitles available; Netflix original.",
+          "theatrical_info": ""
+        },
+        {
+          "title": "The Manny: Season 3",
+          "release_date": "2025-12-17",
+          "type": "series",
+          "genre": "Comedy",
+          "language": "Spanish",
+          "content_category": "international",
+          "release_type": "Direct-to-OTT",
+          "actors": [
+            "Not specified"
+          ],
+          "description": "Mexican series following Jimena's company and relationship struggles; English subtitles/dubbing available; Netflix original.",
           "theatrical_info": ""
         },
         {
           "title": "Murder in Monaco",
           "release_date": "2025-12-17",
-          "type": "series",
-          "genre": "Documentary / True crime",
+          "type": "movie",
+          "genre": "Documentary",
           "language": "English",
           "content_category": "documentary",
           "release_type": "Direct-to-OTT",
           "actors": [
-            "N/A",
-            "N/A",
-            "N/A"
+            "Not specified"
           ],
-          "description": "Documentary examining the 1999 death of Edmond Safra; Netflix original true-crime feature in the US catalog.",
+          "description": "GB documentary unpacking the 1999 murder of billionaire banker Edmond Safra in Monaco; Netflix original.",
           "theatrical_info": ""
         },
         {
-          "title": "Jake vs. Joshua: Judgment Day",
-          "release_date": "2025-12-19",
+          "title": "What’s In The Box?",
+          "release_date": "2025-12-17",
+          "type": "series",
+          "genre": "Game Show",
+          "language": "English",
+          "content_category": "reality",
+          "release_type": "Direct-to-OTT",
+          "actors": [
+            "Neil Patrick Harris"
+          ],
+          "description": "Game show hosted by Neil Patrick Harris where players win or steal prizes via trivia; Netflix original.",
+          "theatrical_info": ""
+        },
+        {
+          "title": "10DANCE",
+          "release_date": "2025-12-18",
           "type": "movie",
-          "genre": "Live sports / Boxing (live event)",
+          "genre": "Romance",
+          "language": "Japanese",
+          "content_category": "international",
+          "release_type": "Direct-to-OTT",
+          "actors": [
+            "Not specified"
+          ],
+          "description": "Japanese film about two rival dancers training together and falling in love; English subtitles available; Netflix original.",
+          "theatrical_info": ""
+        },
+        {
+          "title": "Emily in Paris: Season 5",
+          "release_date": "2025-12-18",
+          "type": "series",
+          "genre": "Comedy",
           "language": "English",
           "content_category": "mainstream",
           "release_type": "Direct-to-OTT",
           "actors": [
-            "Jake Paul",
-            "Anthony Joshua",
-            "N/A"
+            "Lily Collins"
           ],
-          "description": "Live global boxing event streamed on Netflix from Miami; high-profile live-sports entertainment exclusive to Netflix in the US.",
+          "description": "Popular Netflix original series with Emily relocating to Rome amid love and career challenges.",
           "theatrical_info": ""
         },
         {
           "title": "A Time For Bravery",
           "release_date": "2025-12-19",
           "type": "movie",
-          "genre": "Thriller / Drama",
+          "genre": "Thriller",
           "language": "Spanish",
           "content_category": "international",
           "release_type": "Direct-to-OTT",
           "actors": [
-            "N/A",
-            "N/A",
-            "N/A"
+            "Not specified"
           ],
-          "description": "Mexican Netflix original film about a psychoanalyst and an agent confronting danger and betrayal; Spanish-language with English subtitles/dub for US viewers.",
+          "description": "Mexican film where a psychoanalyst helps a shattered agent confront danger; English subtitles/dubbing available; Netflix original.",
           "theatrical_info": ""
         },
         {
@@ -138,11 +208,38 @@
           "content_category": "documentary",
           "release_type": "Direct-to-OTT",
           "actors": [
-            "N/A",
-            "N/A",
-            "N/A"
+            "Not specified"
           ],
-          "description": "Netflix documentary feature released as a streamer original on the platform during the week; covers historical subject matter (platform confirmation noted in release lists).",
+          "description": "Netflix documentary release.",
+          "theatrical_info": ""
+        },
+        {
+          "title": "The Great Flood",
+          "release_date": "2025-12-19",
+          "type": "movie",
+          "genre": "Sci-Fi",
+          "language": "Korean",
+          "content_category": "international",
+          "release_type": "Direct-to-OTT",
+          "actors": [
+            "Not specified"
+          ],
+          "description": "Korean sci-fi film about a researcher and son trapped in a flood during a critical mission; English subtitles available; Netflix original.",
+          "theatrical_info": ""
+        },
+        {
+          "title": "Jake vs. Joshua: Judgment Day",
+          "release_date": "2025-12-19",
+          "type": "movie",
+          "genre": "Sports",
+          "language": "English",
+          "content_category": "reality",
+          "release_type": "Direct-to-OTT",
+          "actors": [
+            "Jake Paul",
+            "Anthony Joshua"
+          ],
+          "description": "Live boxing event featuring Jake Paul vs Anthony Joshua from Miami; Netflix exclusive live event.",
           "theatrical_info": ""
         }
       ]
@@ -152,150 +249,48 @@
       "name": "Prime Video",
       "releases": [
         {
-          "title": "Fallout (Season 2)",
+          "title": "Fallout: Season 2",
           "release_date": "2025-12-17",
           "type": "series",
-          "genre": "Sci‑fi / Post‑apocalyptic",
+          "genre": "Sci-Fi",
           "language": "English",
           "content_category": "mainstream",
           "release_type": "Direct-to-OTT",
           "actors": [
-            "Ella Purnell",
-            "Walton Goggins",
-            "Aaron Moten"
+            "Not specified"
           ],
-          "description": "Season 2 of the Emmy‑nominated adaptation of the Fallout video game franchise, continuing the Wasteland story and expanding to New Vegas; Prime Video original and platform exclusive in the US.",
+          "description": "Post-apocalyptic drama-comedy continuing after season 1 finale, journeying to New Vegas; Prime Video original.",
           "theatrical_info": ""
-        },
-        {
-          "title": "The Creator (2023)",
-          "release_date": "2025-12-16",
-          "type": "movie",
-          "genre": "Sci‑fi / Action",
-          "language": "English",
-          "content_category": "mainstream",
-          "release_type": "Catalog Addition",
-          "actors": [
-            "John David Washington",
-            "Gemma Chan",
-            "Brennan Brown"
-          ],
-          "description": "Sonny Malhotra sci‑fi film added to Prime Video's US catalog this week as a post-theatrical streaming catalog acquisition.",
-          "theatrical_info": "Original theatrical release: 2023-09-29; catalog addition to Prime Video (no new exclusive window)."
         }
       ]
     },
     {
       "id": "disney-plus",
       "name": "Disney+",
-      "releases": [
-        {
-          "title": "Inside the Enchanted Waterways",
-          "release_date": "2025-12-20",
-          "type": "series",
-          "genre": "Documentary / Nature",
-          "language": "English",
-          "content_category": "documentary",
-          "release_type": "Direct-to-OTT",
-          "actors": [
-            "N/A",
-            "N/A",
-            "N/A"
-          ],
-          "description": "Disney+ nature documentary series episode premiere in the week; platform original focused on aquatic ecosystems (Disney+ confirmed listing).",
-          "theatrical_info": ""
-        },
-        {
-          "title": "Are You Sure?!? (Two‑Episode Premiere)",
-          "release_date": "2025-12-12",
-          "type": "series",
-          "genre": "Comedy",
-          "language": "English",
-          "content_category": "mainstream",
-          "release_type": "Direct-to-OTT",
-          "actors": [
-            "N/A",
-            "N/A",
-            "N/A"
-          ],
-          "description": "Disney+ original two‑episode premiere (included in December schedule; outside requested week range but present in official December rollout information).",
-          "theatrical_info": ""
-        }
-      ]
+      "releases": []
     },
     {
       "id": "hulu",
       "name": "Hulu",
-      "releases": [
-        {
-          "title": "Chevalier (Catalog Addition)",
-          "release_date": "2025-12-15",
-          "type": "movie",
-          "genre": "Biographical drama / Music",
-          "language": "English",
-          "content_category": "mainstream",
-          "release_type": "Catalog Addition",
-          "actors": [
-            "Kelvin Harrison Jr.",
-            "Alfre Woodard",
-            "Tessa Thompson"
-          ],
-          "description": "2019 biopic about Joseph Bologne, Chevalier, added to Hulu's streaming catalog this week (catalog placement confirmed by release roundups).",
-          "theatrical_info": "Original theatrical release: 2023-05-26; now a catalog streaming addition."
-        },
-        {
-          "title": "Strange Harvest",
-          "release_date": "2025-12-23",
-          "type": "movie",
-          "genre": "Horror",
-          "language": "English",
-          "content_category": "mainstream",
-          "release_type": "Direct-to-OTT",
-          "actors": [
-            "N/A",
-            "N/A",
-            "N/A"
-          ],
-          "description": "Hulu-listed horror title scheduled later in December (included in platform December schedule; release date is after the requested week and noted for context).",
-          "theatrical_info": ""
-        }
-      ]
+      "releases": []
     },
     {
       "id": "apple-tv-plus",
       "name": "Apple TV+",
       "releases": [
         {
-          "title": "Born to Be Wild (Season premiere / special episodes)",
-          "release_date": "2025-12-19",
+          "title": "Born to Be Wild",
+          "release_date": "2025-12-15",
           "type": "series",
-          "genre": "Documentary / Family",
+          "genre": "Documentary",
           "language": "English",
           "content_category": "documentary",
           "release_type": "Direct-to-OTT",
           "actors": [
-            "N/A",
-            "N/A",
-            "N/A"
+            "Not specified"
           ],
-          "description": "Apple TV+ nature/family documentary episodes released this week focusing on baby animals and rehabilitation; Apple TV+ original content.",
+          "description": "Series following six baby animals learning survival skills from captivity to the wild; Apple TV+ original.",
           "theatrical_info": ""
-        },
-        {
-          "title": "F1: The Movie (Catalog / windowed addition)",
-          "release_date": "2025-12-17",
-          "type": "movie",
-          "genre": "Documentary / Sports",
-          "language": "English",
-          "content_category": "documentary",
-          "release_type": "Catalog Addition",
-          "actors": [
-            "N/A",
-            "N/A",
-            "N/A"
-          ],
-          "description": "Feature film about Formula 1 added to Apple TV+'s catalog/streaming availability this holiday period (reported in streaming roundups).",
-          "theatrical_info": "Original theatrical release: 2025 (theatrical run); now available on Apple TV+ as post-theatrical/windowed addition."
         }
       ]
     },
@@ -304,35 +299,31 @@
       "name": "Max",
       "releases": [
         {
-          "title": "Secrets in the Sand (Season 2)",
-          "release_date": "2025-12-20",
-          "type": "series",
-          "genre": "Documentary / Science",
-          "language": "English",
-          "content_category": "documentary",
-          "release_type": "Direct-to-OTT",
-          "actors": [
-            "N/A",
-            "N/A",
-            "N/A"
-          ],
-          "description": "Season 2 of the science/documentary series added to Max's roster this week (platform schedule confirmation).",
-          "theatrical_info": ""
-        },
-        {
-          "title": "The Bold Type (Seasons 1-5) (Catalog Addition)",
+          "title": "The Bold Type: Seasons 1-5",
           "release_date": "2025-12-15",
           "type": "series",
           "genre": "Drama",
           "language": "English",
-          "content_category": "catalog",
+          "content_category": "mainstream",
           "release_type": "Catalog Addition",
           "actors": [
-            "Katie Stevens",
-            "Aisha Dee",
-            "Meghann Fahy"
+            "Not specified"
           ],
-          "description": "Full series seasons added to Max's streaming catalog during the week (catalog/library expansion confirmed in release lists).",
+          "description": "Complete seasons of the drama series added to Max.",
+          "theatrical_info": ""
+        },
+        {
+          "title": "Truck U: Season 21",
+          "release_date": "2025-12-15",
+          "type": "series",
+          "genre": "Reality",
+          "language": "English",
+          "content_category": "reality",
+          "release_type": "Direct-to-OTT",
+          "actors": [
+            "Not specified"
+          ],
+          "description": "Reality series on truck customization added to Max.",
           "theatrical_info": ""
         }
       ]
@@ -340,178 +331,57 @@
     {
       "id": "paramount-plus",
       "name": "Paramount+",
-      "releases": [
-        {
-          "title": "The Kennedy Center Honors (Special)",
-          "release_date": "2025-12-23",
-          "type": "series",
-          "genre": "Special / Variety",
-          "language": "English",
-          "content_category": "mainstream",
-          "release_type": "Direct-to-OTT",
-          "actors": [
-            "N/A",
-            "N/A",
-            "N/A"
-          ],
-          "description": "Paramount+ listed the Kennedy Center Honors special in late-December programming; included in platform December schedule (outside the exact 12/15-12/21 window but present in official listings).",
-          "theatrical_info": ""
-        }
-      ]
+      "releases": []
     },
     {
       "id": "peacock",
       "name": "Peacock",
       "releases": [
         {
-          "title": "Polite Society (Catalog Addition)",
-          "release_date": "2025-12-16",
-          "type": "movie",
-          "genre": "Comedy / Action",
-          "language": "English",
-          "content_category": "indie",
-          "release_type": "Catalog Addition",
-          "actors": [
-            "Priya Kansara",
-            "Ritu Arya",
-            "Aiysha Hart"
-          ],
-          "description": "British action‑comedy added to Peacock's streaming catalog during December (confirmed in Peacock week listings).",
-          "theatrical_info": "Original theatrical release: 2023 (UK/intl); now a US catalog addition on Peacock."
-        },
-        {
-          "title": "Saw Franchise (Complete Collection addition)",
-          "release_date": "2025-12-16",
+          "title": "Saw Franchise",
+          "release_date": "2025-12-15",
           "type": "movie",
           "genre": "Horror",
           "language": "English",
           "content_category": "mainstream",
           "release_type": "Catalog Addition",
           "actors": [
-            "Tobin Bell",
-            "N/A",
-            "N/A"
+            "Not specified"
           ],
-          "description": "Full Saw franchise—including Saw X—added to Peacock for binge viewing this week; catalog acquisition confirmed in outlet roundups.",
-          "theatrical_info": "Various original theatrical release dates; collection added to Peacock's streaming library."
+          "description": "Entire Saw franchise including Saw X added for binge-watching on Peacock.",
+          "theatrical_info": ""
         }
       ]
     },
     {
       "id": "discovery-plus",
       "name": "Discovery+",
-      "releases": [
-        {
-          "title": "Saving Yellowstone with Dennis Quaid (Season 1)",
-          "release_date": "2025-12-18",
-          "type": "series",
-          "genre": "Documentary / Nature",
-          "language": "English",
-          "content_category": "documentary",
-          "release_type": "Direct-to-OTT",
-          "actors": [
-            "Dennis Quaid",
-            "N/A",
-            "N/A"
-          ],
-          "description": "Nature/conservation series hosted by Dennis Quaid added to Discovery+'s catalog this week as platform original content.",
-          "theatrical_info": ""
-        }
-      ]
+      "releases": []
     },
     {
       "id": "starz",
       "name": "Starz",
-      "releases": [
-        {
-          "title": "No confirmed new releases (Week of 2025-12-15 to 2025-12-21)",
-          "release_date": "TBA",
-          "type": "series",
-          "genre": "",
-          "language": "",
-          "content_category": "catalog",
-          "release_type": "Catalog Addition",
-          "actors": [],
-          "description": "No platform-confirmed new originals or post-theatrical digital premieres for this specific week in official weekly roundups; Starz included with empty releases per instructions.",
-          "theatrical_info": ""
-        }
-      ]
+      "releases": []
     },
     {
       "id": "mubi",
       "name": "Mubi",
-      "releases": [
-        {
-          "title": "No confirmed weekly slate (Week of 2025-12-15 to 2025-12-21)",
-          "release_date": "TBA",
-          "type": "movie",
-          "genre": "",
-          "language": "",
-          "content_category": "indie",
-          "release_type": "Catalog Addition",
-          "actors": [],
-          "description": "Mubi often updates daily but no single consolidated US-confirmed high-profile additions were listed in the aggregated week roundups used; included per platform requirement with no confirmed items in the cited week.",
-          "theatrical_info": ""
-        }
-      ]
+      "releases": []
     },
     {
       "id": "criterion-channel",
       "name": "Criterion Channel",
-      "releases": [
-        {
-          "title": "No confirmed weekly slate (Week of 2025-12-15 to 2025-12-21)",
-          "release_date": "TBA",
-          "type": "movie",
-          "genre": "",
-          "language": "",
-          "content_category": "indie",
-          "release_type": "Catalog Addition",
-          "actors": [],
-          "description": "Criterion Channel maintains frequent rotations of archive and arthouse titles; weekly press roundups consulted did not list specific confirmed new additions for this US week window — marked TBA per verification rules.",
-          "theatrical_info": ""
-        }
-      ]
+      "releases": []
     },
     {
       "id": "tubi",
       "name": "Tubi",
-      "releases": [
-        {
-          "title": "No verified major platform-original releases (Week of 2025-12-15 to 2025-12-21)",
-          "release_date": "TBA",
-          "type": "movie",
-          "genre": "",
-          "language": "",
-          "content_category": "catalog",
-          "release_type": "Catalog Addition",
-          "actors": [],
-          "description": "Tubi's free ad-supported library receives regular catalog updates; major aggregator sources for this week did not list specific confirmed exclusive premieres — entries marked TBA per verification constraint.",
-          "theatrical_info": ""
-        }
-      ]
+      "releases": []
     },
     {
       "id": "pluto-tv",
       "name": "Pluto TV",
-      "releases": [
-        {
-          "title": "Adult Swim’s The Elephant (New programming addition)",
-          "release_date": "2025-12-20",
-          "type": "series",
-          "genre": "Adult animation / Comedy",
-          "language": "English",
-          "content_category": "animation",
-          "release_type": "Catalog Addition",
-          "actors": [
-            "N/A",
-            "N/A",
-            "N/A"
-          ],
-          "description": "Adult Swim program 'The Elephant' listed as streaming on platforms (HBO Max / Adult Swim feed) with availability referenced in week roundups; Pluto/AVOD feeds sometimes carry Adult Swim blocks — availability varies by platform and window.",
-          "theatrical_info": ""
-        }
-      ]
+      "releases": []
     }
   ]
 }

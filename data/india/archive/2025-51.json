@@ -11,8 +11,62 @@
     "name": "India",
     "flag": "🇮🇳"
   },
-  "generated_at": "2025-12-17T09:05:04.566Z",
+  "generated_at": "2025-12-18T09:04:50.442Z",
   "platforms": [
+    {
+      "id": "netflix",
+      "name": "Netflix",
+      "releases": [
+        {
+          "title": "Raat Akeli Hai: The Bansal Murders",
+          "release_date": "2025-12-19",
+          "type": "movie",
+          "industry": "Bollywood/Hindi",
+          "genre": "Crime Thriller",
+          "language": "Hindi",
+          "actors": [
+            "Nawazuddin Siddiqui",
+            "Radhika Apte",
+            "Chitrangada Singh"
+          ],
+          "dubbing": "Hindi (original); dubbed versions TBA",
+          "release_type": "Direct-to-OTT",
+          "description": "A spiritual sequel following Inspector Jatil Yadav as he investigates the brutal murder of a wealthy family's members inside their mansion."
+        },
+        {
+          "title": "The Great Indian Kapil Show Season 4",
+          "release_date": "2025-12-20",
+          "type": "series",
+          "industry": "Bollywood/Hindi",
+          "genre": "Comedy / Talk Show",
+          "language": "Hindi",
+          "actors": [
+            "Kapil Sharma",
+            "Sunil Grover",
+            "Kiku Sharda"
+          ],
+          "dubbing": "Hindi",
+          "release_type": "Direct-to-OTT",
+          "description": "Kapil Sharma returns with season 4 featuring sketches, celebrity guests and the ensemble cast in a family-friendly comedy-talk format."
+        },
+        {
+          "title": "Ek Deewane Ki Deewaniyat",
+          "release_date": "2025-12-16",
+          "type": "series",
+          "industry": "Bollywood/Hindi",
+          "genre": "Romantic Thriller",
+          "language": "Hindi",
+          "actors": [
+            "TBA",
+            "TBA",
+            "TBA"
+          ],
+          "dubbing": "Hindi (original); other language availability TBA",
+          "release_type": "Direct-to-OTT",
+          "description": "An intense romantic drama about obsession and power centred on the son of a powerful politician and his fixation on an actress."
+        }
+      ]
+    },
     {
       "id": "prime-video",
       "name": "Prime Video",
@@ -22,79 +76,48 @@
           "release_date": "2025-12-16",
           "type": "movie",
           "industry": "Bollywood/Hindi",
-          "genre": "Horror Comedy",
+          "genre": "Supernatural Romance-Comedy",
           "language": "Hindi",
           "actors": [
-            "Kartik Aaryan"
+            "TBA",
+            "TBA",
+            "TBA"
           ],
-          "dubbing": "",
+          "dubbing": "Hindi (original); dubbed versions for South Indian languages TBA",
           "release_type": "Post-Theatrical",
-          "description": "Fifth installment in the Maddock Horror Comedy Universe blending romance, horror, and humor. Follows shy journalist Alok Goyal whose life changes after a mysterious woman Tadaka saves him from a bear attack.[1][3]"
+          "description": "Part of the Maddock Horror Comedy Universe, blending romance, horror and humour around a shy journalist whose life changes after an encounter with a mystical woman."
         },
         {
           "title": "Four More Shots Please! Season 4",
           "release_date": "2025-12-19",
           "type": "series",
           "industry": "Bollywood/Hindi",
-          "genre": "Drama",
+          "genre": "Drama / Comedy-Drama",
           "language": "Hindi",
           "actors": [
             "Sayani Gupta",
             "Kirti Kulhari",
-            "Bani J",
-            "Mrunal Thakur"
+            "Maanvi Gagroo"
           ],
-          "dubbing": "",
+          "dubbing": "Hindi (original); dubbed versions TBA",
           "release_type": "Direct-to-OTT",
-          "description": "Final season brings closure to four friends navigating love, ambition, heartbreak, and identity with bold storytelling and female-led narrative.[1][3]"
-        }
-      ]
-    },
-    {
-      "id": "netflix",
-      "name": "Netflix",
-      "releases": [
+          "description": "Final season following the emotional and high-stakes journeys of a four-woman friend group navigating relationships, career and identity."
+        },
         {
-          "title": "Ek Deewane Ki Deewaniyat",
+          "title": "Fallout Season 2",
           "release_date": "2025-12-16",
-          "type": "movie",
-          "industry": "Bollywood/Hindi",
-          "genre": "Romantic Drama",
-          "language": "Hindi",
-          "actors": [
-            "Unknown"
-          ],
-          "dubbing": "",
-          "release_type": "Direct-to-OTT",
-          "description": "Intense romantic drama exploring obsession, power, and toxic love. Revolves around Vikramaditya Bhonsle, arrogant son of a politician, fixated on independent actor Adaa Randhawa.[1]"
-        },
-        {
-          "title": "Raat Akeli Hai: The Bansal Murders",
-          "release_date": "2025-12-19",
           "type": "series",
-          "industry": "Bollywood/Hindi",
-          "genre": "Crime Thriller",
-          "language": "Hindi",
+          "industry": "International/English",
+          "genre": "Post-apocalyptic Drama",
+          "language": "English",
           "actors": [
-            "Nawazuddin Siddiqui"
+            "TBA",
+            "TBA",
+            "TBA"
           ],
-          "dubbing": "",
+          "dubbing": "English (original); dubbed/subbed versions TBA",
           "release_type": "Direct-to-OTT",
-          "description": "Spiritual sequel to 2020 hit with Nawazuddin Siddiqui as Inspector Jatil Yadav investigating the brutal murder of the wealthy Bansal family amid political influence and secrets.[1][2][3]"
-        },
-        {
-          "title": "The Great Indian Kapil Show Season 4",
-          "release_date": "2025-12-20",
-          "type": "series",
-          "industry": "Bollywood/Hindi",
-          "genre": "Comedy Talk Show",
-          "language": "Hindi",
-          "actors": [
-            "Kapil Sharma"
-          ],
-          "dubbing": "",
-          "release_type": "Direct-to-OTT",
-          "description": "Kapil Sharma returns with sketches, celebrity guests, and ensemble cast promising bigger laughs and family-friendly entertainment.[1][3]"
+          "description": "Second season continuing the post-apocalyptic narrative following Vault Dweller Lucy MacLean and companions across the wasteland."
         }
       ]
     },
@@ -110,23 +133,129 @@
           "genre": "Psychological Crime Thriller",
           "language": "Hindi",
           "actors": [
-            "Madhuri Dixit"
+            "Madhuri Dixit",
+            "Siddharth Chandekar",
+            "Priyanshu Chatterjee"
           ],
-          "dubbing": "",
+          "dubbing": "Hindi (original); dubbed versions TBA",
           "release_type": "Direct-to-OTT",
-          "description": "Gripping thriller inspired by La Mante starring Madhuri Dixit as a notorious serial killer helping catch a copycat murderer, forming an uneasy alliance with her estranged detective son.[1][2][3]"
+          "description": "Adaptation of La Mante featuring Madhuri Dixit as an incarcerated serial killer who assists police to catch a copycat murderer."
+        },
+        {
+          "title": "The Great Shamsuddin Family",
+          "release_date": "2025-12-12",
+          "type": "series",
+          "industry": "Bollywood/Hindi",
+          "genre": "Drama / Family",
+          "language": "Hindi",
+          "actors": [
+            "TBA",
+            "TBA",
+            "TBA"
+          ],
+          "dubbing": "Hindi",
+          "release_type": "Direct-to-OTT",
+          "description": "Family drama series that explores interpersonal relationships and generational conflicts."
+        }
+      ]
+    },
+    {
+      "id": "sonyliv",
+      "name": "SonyLIV",
+      "releases": [
+        {
+          "title": "Real Kashmir Football Club",
+          "release_date": "2025-12-09",
+          "type": "movie",
+          "industry": "Bollywood/Hindi",
+          "genre": "Sports Drama",
+          "language": "Hindi",
+          "actors": [
+            "TBA",
+            "TBA",
+            "TBA"
+          ],
+          "dubbing": "Hindi",
+          "release_type": "Post-Theatrical",
+          "description": "Sports drama chronicling the journey of a football club from Kashmir competing against odds."
         }
       ]
     },
     {
       "id": "zee5",
       "name": "ZEE5",
-      "releases": []
+      "releases": [
+        {
+          "title": "Saali Mohabbat",
+          "release_date": "2025-12-12",
+          "type": "movie",
+          "industry": "Bollywood/Hindi",
+          "genre": "Thriller Drama",
+          "language": "Hindi",
+          "actors": [
+            "TBA",
+            "TBA",
+            "TBA"
+          ],
+          "dubbing": "Hindi",
+          "release_type": "Direct-to-OTT",
+          "description": "A tense thriller-drama exploring complex relationships and moral ambiguity."
+        },
+        {
+          "title": "Gharwali Pedwali",
+          "release_date": "2025-12-05",
+          "type": "movie",
+          "industry": "Bollywood/Hindi",
+          "genre": "Supernatural Comedy",
+          "language": "Hindi",
+          "actors": [
+            "TBA",
+            "TBA",
+            "TBA"
+          ],
+          "dubbing": "Hindi",
+          "release_type": "Direct-to-OTT",
+          "description": "A supernatural comedy about domestic chaos when otherworldly elements interfere with everyday life."
+        }
+      ]
     },
     {
       "id": "jiocinema",
       "name": "JioCinema",
-      "releases": []
+      "releases": [
+        {
+          "title": "Mrs Deshpande",
+          "release_date": "2025-12-19",
+          "type": "series",
+          "industry": "Bollywood/Hindi",
+          "genre": "Psychological Crime Thriller",
+          "language": "Hindi",
+          "actors": [
+            "Madhuri Dixit",
+            "Siddharth Chandekar",
+            "Priyanshu Chatterjee"
+          ],
+          "dubbing": "Hindi (original); other language availability TBA",
+          "release_type": "Direct-to-OTT",
+          "description": "Madhuri Dixit stars as a notorious serial killer brought back to help police track a copycat murderer."
+        },
+        {
+          "title": "Superman (2025 film) - Digital Window",
+          "release_date": "2025-12-11",
+          "type": "movie",
+          "industry": "Hollywood/English",
+          "genre": "Action",
+          "language": "English",
+          "actors": [
+            "TBA",
+            "TBA",
+            "TBA"
+          ],
+          "dubbing": "English; Indian language dubs TBA",
+          "release_type": "Post-Theatrical",
+          "description": "2025 Superman theatrical release scheduled for streaming in December on JioCinema."
+        }
+      ]
     },
     {
       "id": "aha",
@@ -161,11 +290,6 @@
     {
       "id": "chaupal",
       "name": "Chaupal",
-      "releases": []
-    },
-    {
-      "id": "sonyliv",
-      "name": "SonyLIV",
       "releases": []
     }
   ]
