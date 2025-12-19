@@ -11,70 +11,14 @@
     "name": "United States",
     "flag": "🇺🇸"
   },
-  "generated_at": "2025-12-18T09:03:55.062Z",
+  "generated_at": "2025-12-19T09:02:47.746Z",
   "platforms": [
     {
       "id": "netflix",
       "name": "Netflix",
       "releases": [
         {
-          "title": "A Cowboy Christmas Romance",
-          "release_date": "2025-12-15",
-          "type": "movie",
-          "genre": "Romance",
-          "language": "English",
-          "content_category": "mainstream",
-          "release_type": "Direct-to-OTT",
-          "actors": [
-            "Not specified"
-          ],
-          "description": "Holiday romance film arriving on Netflix.",
-          "theatrical_info": ""
-        },
-        {
-          "title": "Christmas at the Chalet",
-          "release_date": "2025-12-15",
-          "type": "movie",
-          "genre": "Romance",
-          "language": "English",
-          "content_category": "mainstream",
-          "release_type": "Direct-to-OTT",
-          "actors": [
-            "Not specified"
-          ],
-          "description": "Festive holiday romance exclusive to Netflix.",
-          "theatrical_info": ""
-        },
-        {
-          "title": "The Christmas Classic",
-          "release_date": "2025-12-15",
-          "type": "movie",
-          "genre": "Comedy",
-          "language": "English",
-          "content_category": "mainstream",
-          "release_type": "Direct-to-OTT",
-          "actors": [
-            "Not specified"
-          ],
-          "description": "Holiday comedy film streaming on Netflix.",
-          "theatrical_info": ""
-        },
-        {
-          "title": "Christmas on the Alpaca Farm",
-          "release_date": "2025-12-15",
-          "type": "movie",
-          "genre": "Family",
-          "language": "English",
-          "content_category": "mainstream",
-          "release_type": "Direct-to-OTT",
-          "actors": [
-            "Not specified"
-          ],
-          "description": "Heartwarming holiday family film on Netflix.",
-          "theatrical_info": ""
-        },
-        {
-          "title": "The Creature Cases: Chapter 6",
+          "title": "The Creature Cases Chapter 6",
           "release_date": "2025-12-15",
           "type": "series",
           "genre": "Animation",
@@ -82,51 +26,37 @@
           "content_category": "animation",
           "release_type": "Direct-to-OTT",
           "actors": [
-            "Not specified"
+            "Sam",
+            "Kit"
           ],
-          "description": "Netflix family animation where agents Sam and Kit solve animal mysteries worldwide; Netflix original.",
+          "description": "Director Scratch assigns new creature cases as agents Sam and Kit solve animal mysteries worldwide. Netflix family original.",
           "theatrical_info": ""
         },
         {
-          "title": "Castle Rock: Seasons 1-2",
-          "release_date": "2025-12-16",
-          "type": "series",
-          "genre": "Horror",
-          "language": "English",
-          "content_category": "mainstream",
-          "release_type": "Catalog Addition",
-          "actors": [
-            "Not specified"
-          ],
-          "description": "Stephen King-inspired anthology series added to Netflix library.",
-          "theatrical_info": ""
-        },
-        {
-          "title": "Culinary Class Wars: Season 2",
+          "title": "Culinary Class Wars Season 2",
           "release_date": "2025-12-16",
           "type": "series",
           "genre": "Reality",
           "language": "Korean",
           "content_category": "international",
           "release_type": "Direct-to-OTT",
-          "actors": [
-            "Not specified"
-          ],
-          "description": "Korean reality series featuring Black Spoon cooks vs White Spoon chefs; English subtitles available; Netflix original.",
+          "actors": [],
+          "description": "Black Spoon cooks challenge White Spoon chefs in intense culinary battles. Netflix original with English subtitles.",
           "theatrical_info": ""
         },
         {
-          "title": "The Manny: Season 3",
+          "title": "The Manny Season 3",
           "release_date": "2025-12-17",
           "type": "series",
-          "genre": "Comedy",
+          "genre": "Drama",
           "language": "Spanish",
           "content_category": "international",
           "release_type": "Direct-to-OTT",
           "actors": [
-            "Not specified"
+            "Jimena",
+            "Gabriel"
           ],
-          "description": "Mexican series following Jimena's company and relationship struggles; English subtitles/dubbing available; Netflix original.",
+          "description": "Jimena fights to save her company amid relationship troubles with Gabriel. Netflix Mexican original with English subtitles/dubbing.",
           "theatrical_info": ""
         },
         {
@@ -137,14 +67,12 @@
           "language": "English",
           "content_category": "documentary",
           "release_type": "Direct-to-OTT",
-          "actors": [
-            "Not specified"
-          ],
-          "description": "GB documentary unpacking the 1999 murder of billionaire banker Edmond Safra in Monaco; Netflix original.",
+          "actors": [],
+          "description": "Explores the 1999 mysterious murder of billionaire banker Edmond Safra in Monaco. Netflix GB documentary.",
           "theatrical_info": ""
         },
         {
-          "title": "What’s In The Box?",
+          "title": "What's In The Box?",
           "release_date": "2025-12-17",
           "type": "series",
           "genre": "Game Show",
@@ -154,35 +82,23 @@
           "actors": [
             "Neil Patrick Harris"
           ],
-          "description": "Game show hosted by Neil Patrick Harris where players win or steal prizes via trivia; Netflix original.",
+          "description": "Hosted by Neil Patrick Harris, players win trivia prizes or steal from competitors. Netflix original game show.",
           "theatrical_info": ""
         },
         {
-          "title": "10DANCE",
-          "release_date": "2025-12-18",
-          "type": "movie",
-          "genre": "Romance",
-          "language": "Japanese",
-          "content_category": "international",
-          "release_type": "Direct-to-OTT",
-          "actors": [
-            "Not specified"
-          ],
-          "description": "Japanese film about two rival dancers training together and falling in love; English subtitles available; Netflix original.",
-          "theatrical_info": ""
-        },
-        {
-          "title": "Emily in Paris: Season 5",
+          "title": "Emily in Paris Season 5",
           "release_date": "2025-12-18",
           "type": "series",
-          "genre": "Comedy",
+          "genre": "Comedy Drama",
           "language": "English",
           "content_category": "mainstream",
           "release_type": "Direct-to-OTT",
           "actors": [
-            "Lily Collins"
+            "Lily Collins",
+            "Lucas Bravo",
+            "Eugenio Franceschini"
           ],
-          "description": "Popular Netflix original series with Emily relocating to Rome amid love and career challenges.",
+          "description": "Emily relocates to Rome for new career and romance challenges amid loyalty conflicts. Netflix exclusive returning series.",
           "theatrical_info": ""
         },
         {
@@ -193,10 +109,8 @@
           "language": "Spanish",
           "content_category": "international",
           "release_type": "Direct-to-OTT",
-          "actors": [
-            "Not specified"
-          ],
-          "description": "Mexican film where a psychoanalyst helps a shattered agent confront danger; English subtitles/dubbing available; Netflix original.",
+          "actors": [],
+          "description": "Psychoanalyst helps infidelity-shattered agent face danger and find second chances. Netflix Mexican original.",
           "theatrical_info": ""
         },
         {
@@ -207,39 +121,35 @@
           "language": "English",
           "content_category": "documentary",
           "release_type": "Direct-to-OTT",
-          "actors": [
-            "Not specified"
-          ],
-          "description": "Netflix documentary release.",
+          "actors": [],
+          "description": "Documentary exploring events of 1975. Netflix original.",
           "theatrical_info": ""
         },
         {
           "title": "The Great Flood",
           "release_date": "2025-12-19",
           "type": "movie",
-          "genre": "Sci-Fi",
+          "genre": "Sci-Fi Thriller",
           "language": "Korean",
           "content_category": "international",
           "release_type": "Direct-to-OTT",
-          "actors": [
-            "Not specified"
-          ],
-          "description": "Korean sci-fi film about a researcher and son trapped in a flood during a critical mission; English subtitles available; Netflix original.",
+          "actors": [],
+          "description": "Researcher and son trapped by flood undertake mission impacting humanity's future. Netflix Korean original with English subtitles.",
           "theatrical_info": ""
         },
         {
           "title": "Jake vs. Joshua: Judgment Day",
           "release_date": "2025-12-19",
           "type": "movie",
-          "genre": "Sports",
+          "genre": "Live Event",
           "language": "English",
-          "content_category": "reality",
+          "content_category": "comedy",
           "release_type": "Direct-to-OTT",
           "actors": [
             "Jake Paul",
             "Anthony Joshua"
           ],
-          "description": "Live boxing event featuring Jake Paul vs Anthony Joshua from Miami; Netflix exclusive live event.",
+          "description": "Live boxing showdown between Jake Paul and Anthony Joshua from Miami. Netflix exclusive live event.",
           "theatrical_info": ""
         }
       ]
@@ -249,17 +159,19 @@
       "name": "Prime Video",
       "releases": [
         {
-          "title": "Fallout: Season 2",
+          "title": "Fallout Season 2",
           "release_date": "2025-12-17",
           "type": "series",
-          "genre": "Sci-Fi",
+          "genre": "Sci-Fi Action",
           "language": "English",
           "content_category": "mainstream",
           "release_type": "Direct-to-OTT",
           "actors": [
-            "Not specified"
+            "Ella Purnell",
+            "Walton Goggins",
+            "Aaron Moten"
           ],
-          "description": "Post-apocalyptic drama-comedy continuing after season 1 finale, journeying to New Vegas; Prime Video original.",
+          "description": "Lucy, The Ghoul, and Maximus navigate Mojave to New Vegas amid factions and Vault-Tec secrets. Prime Video exclusive video game adaptation.",
           "theatrical_info": ""
         }
       ]
@@ -277,53 +189,22 @@
     {
       "id": "apple-tv-plus",
       "name": "Apple TV+",
-      "releases": [
-        {
-          "title": "Born to Be Wild",
-          "release_date": "2025-12-15",
-          "type": "series",
-          "genre": "Documentary",
-          "language": "English",
-          "content_category": "documentary",
-          "release_type": "Direct-to-OTT",
-          "actors": [
-            "Not specified"
-          ],
-          "description": "Series following six baby animals learning survival skills from captivity to the wild; Apple TV+ original.",
-          "theatrical_info": ""
-        }
-      ]
+      "releases": []
     },
     {
       "id": "max",
       "name": "Max",
       "releases": [
         {
-          "title": "The Bold Type: Seasons 1-5",
+          "title": "The Bold Type Seasons 1-5",
           "release_date": "2025-12-15",
           "type": "series",
           "genre": "Drama",
           "language": "English",
           "content_category": "mainstream",
           "release_type": "Catalog Addition",
-          "actors": [
-            "Not specified"
-          ],
-          "description": "Complete seasons of the drama series added to Max.",
-          "theatrical_info": ""
-        },
-        {
-          "title": "Truck U: Season 21",
-          "release_date": "2025-12-15",
-          "type": "series",
-          "genre": "Reality",
-          "language": "English",
-          "content_category": "reality",
-          "release_type": "Direct-to-OTT",
-          "actors": [
-            "Not specified"
-          ],
-          "description": "Reality series on truck customization added to Max.",
+          "actors": [],
+          "description": "Complete seasons of the series about young women navigating careers and life in New York media.",
           "theatrical_info": ""
         }
       ]
@@ -336,22 +217,7 @@
     {
       "id": "peacock",
       "name": "Peacock",
-      "releases": [
-        {
-          "title": "Saw Franchise",
-          "release_date": "2025-12-15",
-          "type": "movie",
-          "genre": "Horror",
-          "language": "English",
-          "content_category": "mainstream",
-          "release_type": "Catalog Addition",
-          "actors": [
-            "Not specified"
-          ],
-          "description": "Entire Saw franchise including Saw X added for binge-watching on Peacock.",
-          "theatrical_info": ""
-        }
-      ]
+      "releases": []
     },
     {
       "id": "discovery-plus",
