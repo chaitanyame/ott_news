@@ -11,14 +11,14 @@
     "name": "United States",
     "flag": "🇺🇸"
   },
-  "generated_at": "2025-12-19T09:02:47.746Z",
+  "generated_at": "2025-12-20T09:01:38.405Z",
   "platforms": [
     {
       "id": "netflix",
       "name": "Netflix",
       "releases": [
         {
-          "title": "The Creature Cases Chapter 6",
+          "title": "The Creature Cases chapter 6",
           "release_date": "2025-12-15",
           "type": "series",
           "genre": "Animation",
@@ -26,26 +26,27 @@
           "content_category": "animation",
           "release_type": "Direct-to-OTT",
           "actors": [
-            "Sam",
-            "Kit"
+            "N/A"
           ],
-          "description": "Director Scratch assigns new creature cases as agents Sam and Kit solve animal mysteries worldwide. Netflix family original.",
+          "description": "Netflix family animation series where agents Sam and Kit solve animal mysteries worldwide under Director Scratch.",
           "theatrical_info": ""
         },
         {
-          "title": "Culinary Class Wars Season 2",
+          "title": "Culinary Class Wars season 2",
           "release_date": "2025-12-16",
           "type": "series",
           "genre": "Reality",
           "language": "Korean",
           "content_category": "international",
           "release_type": "Direct-to-OTT",
-          "actors": [],
-          "description": "Black Spoon cooks challenge White Spoon chefs in intense culinary battles. Netflix original with English subtitles.",
+          "actors": [
+            "N/A"
+          ],
+          "description": "Netflix original Korean reality series featuring Black Spoon cooks challenging White Spoon chefs in culinary battles. English subtitles/dubbing available.",
           "theatrical_info": ""
         },
         {
-          "title": "The Manny Season 3",
+          "title": "The Manny season 3",
           "release_date": "2025-12-17",
           "type": "series",
           "genre": "Drama",
@@ -53,10 +54,9 @@
           "content_category": "international",
           "release_type": "Direct-to-OTT",
           "actors": [
-            "Jimena",
-            "Gabriel"
+            "N/A"
           ],
-          "description": "Jimena fights to save her company amid relationship troubles with Gabriel. Netflix Mexican original with English subtitles/dubbing.",
+          "description": "Mexican Netflix series following Jimena's struggles with her company and relationship with Gabriel. English subtitles/dubbing available.",
           "theatrical_info": ""
         },
         {
@@ -67,29 +67,31 @@
           "language": "English",
           "content_category": "documentary",
           "release_type": "Direct-to-OTT",
-          "actors": [],
-          "description": "Explores the 1999 mysterious murder of billionaire banker Edmond Safra in Monaco. Netflix GB documentary.",
+          "actors": [
+            "N/A"
+          ],
+          "description": "Netflix original documentary unpacking the 1999 mysterious murder of billionaire banker Edmond Safra in Monaco.",
           "theatrical_info": ""
         },
         {
           "title": "What's In The Box?",
           "release_date": "2025-12-17",
           "type": "series",
-          "genre": "Game Show",
+          "genre": "Reality",
           "language": "English",
           "content_category": "reality",
           "release_type": "Direct-to-OTT",
           "actors": [
             "Neil Patrick Harris"
           ],
-          "description": "Hosted by Neil Patrick Harris, players win trivia prizes or steal from competitors. Netflix original game show.",
+          "description": "Netflix game show hosted by Neil Patrick Harris where players answer trivia to win or steal prizes.",
           "theatrical_info": ""
         },
         {
-          "title": "Emily in Paris Season 5",
+          "title": "Emily in Paris season 5",
           "release_date": "2025-12-18",
           "type": "series",
-          "genre": "Comedy Drama",
+          "genre": "Comedy",
           "language": "English",
           "content_category": "mainstream",
           "release_type": "Direct-to-OTT",
@@ -98,7 +100,7 @@
             "Lucas Bravo",
             "Eugenio Franceschini"
           ],
-          "description": "Emily relocates to Rome for new career and romance challenges amid loyalty conflicts. Netflix exclusive returning series.",
+          "description": "Netflix exclusive rom-com series with Emily Cooper in Rome managing Agence Grateau amid romance and drama. All episodes drop at once.",
           "theatrical_info": ""
         },
         {
@@ -109,8 +111,10 @@
           "language": "Spanish",
           "content_category": "international",
           "release_type": "Direct-to-OTT",
-          "actors": [],
-          "description": "Psychoanalyst helps infidelity-shattered agent face danger and find second chances. Netflix Mexican original.",
+          "actors": [
+            "N/A"
+          ],
+          "description": "Mexican Netflix film about a psychoanalyst aiding an agent shattered by infidelity, facing danger. English subtitles/dubbing available.",
           "theatrical_info": ""
         },
         {
@@ -121,35 +125,39 @@
           "language": "English",
           "content_category": "documentary",
           "release_type": "Direct-to-OTT",
-          "actors": [],
-          "description": "Documentary exploring events of 1975. Netflix original.",
+          "actors": [
+            "N/A"
+          ],
+          "description": "Netflix original documentary highlighted as a top pick for the week.",
           "theatrical_info": ""
         },
         {
           "title": "The Great Flood",
           "release_date": "2025-12-19",
           "type": "movie",
-          "genre": "Sci-Fi Thriller",
+          "genre": "Sci-Fi",
           "language": "Korean",
           "content_category": "international",
           "release_type": "Direct-to-OTT",
-          "actors": [],
-          "description": "Researcher and son trapped by flood undertake mission impacting humanity's future. Netflix Korean original with English subtitles.",
+          "actors": [
+            "N/A"
+          ],
+          "description": "Korean Netflix film where a flood traps a researcher and her son during a crucial mission. English subtitles/dubbing available.",
           "theatrical_info": ""
         },
         {
           "title": "Jake vs. Joshua: Judgment Day",
           "release_date": "2025-12-19",
           "type": "movie",
-          "genre": "Live Event",
+          "genre": "Sports",
           "language": "English",
-          "content_category": "comedy",
+          "content_category": "mainstream",
           "release_type": "Direct-to-OTT",
           "actors": [
             "Jake Paul",
             "Anthony Joshua"
           ],
-          "description": "Live boxing showdown between Jake Paul and Anthony Joshua from Miami. Netflix exclusive live event.",
+          "description": "Netflix live boxing event featuring Jake Paul vs. Anthony Joshua from Miami, Florida. Netflix exclusive live stream.",
           "theatrical_info": ""
         }
       ]
@@ -159,10 +167,10 @@
       "name": "Prime Video",
       "releases": [
         {
-          "title": "Fallout Season 2",
+          "title": "Fallout season 2",
           "release_date": "2025-12-17",
           "type": "series",
-          "genre": "Sci-Fi Action",
+          "genre": "Sci-Fi",
           "language": "English",
           "content_category": "mainstream",
           "release_type": "Direct-to-OTT",
@@ -171,7 +179,7 @@
             "Walton Goggins",
             "Aaron Moten"
           ],
-          "description": "Lucy, The Ghoul, and Maximus navigate Mojave to New Vegas amid factions and Vault-Tec secrets. Prime Video exclusive video game adaptation.",
+          "description": "Prime Video exclusive continuation of the video game adaptation with Lucy, The Ghoul, and Maximus heading to New Vegas amid civil war. Episode 1 premieres; ongoing weekly release.",
           "theatrical_info": ""
         }
       ]
@@ -179,7 +187,24 @@
     {
       "id": "disney-plus",
       "name": "Disney+",
-      "releases": []
+      "releases": [
+        {
+          "title": "Taylor Swift: The End of an Era episodes 3 & 4",
+          "release_date": "2025-12-19",
+          "type": "series",
+          "genre": "Documentary",
+          "language": "English",
+          "content_category": "documentary",
+          "release_type": "Direct-to-OTT",
+          "actors": [
+            "Taylor Swift",
+            "Sabrina Carpenter",
+            "Ed Sheeran"
+          ],
+          "description": "Disney+ exclusive docuseries providing behind-the-scenes insight into Taylor Swift's Eras Tour with performers and family. Episodes 3 and 4 release this week.",
+          "theatrical_info": ""
+        }
+      ]
     },
     {
       "id": "hulu",
@@ -189,22 +214,53 @@
     {
       "id": "apple-tv-plus",
       "name": "Apple TV+",
-      "releases": []
+      "releases": [
+        {
+          "title": "Born to Be Wild",
+          "release_date": "2025-12-19",
+          "type": "series",
+          "genre": "Documentary",
+          "language": "English",
+          "content_category": "documentary",
+          "release_type": "Direct-to-OTT",
+          "actors": [
+            "Hugh Bonneville"
+          ],
+          "description": "Apple TV+ original six-part nature documentary narrated by Hugh Bonneville, following six endangered baby animals preparing for wild release. Highlights challenges and resilience.",
+          "theatrical_info": ""
+        }
+      ]
     },
     {
       "id": "max",
       "name": "Max",
       "releases": [
         {
-          "title": "The Bold Type Seasons 1-5",
+          "title": "The Bold Type seasons 1-5",
           "release_date": "2025-12-15",
           "type": "series",
           "genre": "Drama",
           "language": "English",
           "content_category": "mainstream",
           "release_type": "Catalog Addition",
-          "actors": [],
-          "description": "Complete seasons of the series about young women navigating careers and life in New York media.",
+          "actors": [
+            "N/A"
+          ],
+          "description": "Complete series addition of the drama about young women navigating careers and life in New York media world.",
+          "theatrical_info": ""
+        },
+        {
+          "title": "Truck U season 21",
+          "release_date": "2025-12-15",
+          "type": "series",
+          "genre": "Reality",
+          "language": "English",
+          "content_category": "reality",
+          "release_type": "Direct-to-OTT",
+          "actors": [
+            "N/A"
+          ],
+          "description": "Reality series on truck builds and modifications, season 21 new to Max.",
           "theatrical_info": ""
         }
       ]
