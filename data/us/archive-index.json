@@ -1,6 +1,12 @@
 {
   "archives": [
     {
+      "weekId": "2026-01",
+      "weekTitle": "Week 1: December 29 - January 4, 2026",
+      "weekRange": "December 29 - January 4, 2026",
+      "generatedAt": "2026-01-02T09:02:54.768Z"
+    },
+    {
       "weekId": "2025-51",
       "weekTitle": "Week 51: December 15-21, 2025",
       "weekRange": "December 15-21, 2025",
