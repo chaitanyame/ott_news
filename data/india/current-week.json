@@ -11,44 +11,14 @@
     "name": "India",
     "flag": "🇮🇳"
   },
-  "generated_at": "2026-01-02T09:03:04.081Z",
+  "generated_at": "2026-01-03T09:01:27.925Z",
   "platforms": [
     {
       "id": "netflix",
       "name": "Netflix",
       "releases": [
         {
-          "title": "Khakee: The Bengal Chapter",
-          "release_date": "2025-12-30",
-          "type": "series",
-          "industry": "Bollywood/Hindi",
-          "genre": "Crime Drama",
-          "language": "Hindi",
-          "actors": [
-            "Unknown"
-          ],
-          "dubbing": "",
-          "release_type": "Direct-to-OTT",
-          "description": "A gripping crime drama set in West Bengal, exploring police investigations, politics, and power struggles."
-        },
-        {
-          "title": "Haq",
-          "release_date": "2026-01-02",
-          "type": "movie",
-          "industry": "Bollywood/Hindi",
-          "genre": "Courtroom Drama",
-          "language": "Hindi",
-          "actors": [
-            "Emraan Hashmi",
-            "Yami Gautam Dhar",
-            "Sheeba Chaddha"
-          ],
-          "dubbing": "",
-          "release_type": "Post-Theatrical",
-          "description": "Hindi courtroom drama inspired by the Shah Bano case, featuring strong performances from lead actors."
-        },
-        {
-          "title": "Eko",
+          "title": "Ekō",
           "release_date": "2025-12-31",
           "type": "movie",
           "industry": "Mollywood/Malayalam",
@@ -57,31 +27,27 @@
           "actors": [
             "Sandeep Pradeep",
             "Vineeth",
-            "Narain"
-          ],
-          "dubbing": "Telugu",
-          "release_type": "Post-Theatrical",
-          "description": "Malayalam mystery thriller that received positive response during its theatrical run."
-        }
-      ]
-    },
-    {
-      "id": "prime-video",
-      "name": "Prime Video",
-      "releases": [
-        {
-          "title": "Indian Police Force",
-          "release_date": "2026-01-01",
-          "type": "series",
-          "industry": "Bollywood/Hindi",
-          "genre": "Action",
-          "language": "Hindi",
-          "actors": [
-            "Unknown"
+            "Narain",
+            "Binu Pappu"
           ],
           "dubbing": "",
           "release_type": "Direct-to-OTT",
-          "description": "An action-packed series following elite Indian police officers tackling terrorism across major cities."
+          "description": "Ekō is a mystery thriller built around the disappearance of a notorious dog breeder and outlaw once protected by powerful connections, now on the run from multiple parties including police. A Malaysian woman in a remote Kerala hill station adds intrigue to his story."
+        },
+        {
+          "title": "Haq",
+          "release_date": "2026-01-02",
+          "type": "series",
+          "industry": "Bollywood/Hindi",
+          "genre": "Family Drama",
+          "language": "Hindi",
+          "actors": [
+            "Emraan Hashmi",
+            "Yami Gautam"
+          ],
+          "dubbing": "",
+          "release_type": "Direct-to-OTT",
+          "description": "Inspired by the 1985 Shah Bano case, Haq follows a Muslim woman divorced under Shariat law who fights in court for maintenance against her husband and the system."
         }
       ]
     },
@@ -90,106 +56,34 @@
       "name": "Disney+ Hotstar",
       "releases": [
         {
-          "title": "Showtime",
-          "release_date": "2025-12-29",
-          "type": "series",
-          "industry": "Bollywood/Hindi",
-          "genre": "Drama",
-          "language": "Hindi",
-          "actors": [
-            "Unknown"
-          ],
-          "dubbing": "",
-          "release_type": "Direct-to-OTT",
-          "description": "A dramatic look into the glamour, ambition, and rivalry behind the scenes of the Hindi film industry."
-        },
-        {
           "title": "Love Beyond Wicket",
           "release_date": "2026-01-01",
           "type": "movie",
           "industry": "Kollywood/Tamil",
           "genre": "Sports Drama",
           "language": "Tamil",
-          "actors": [
-            "Vikranth"
-          ],
-          "dubbing": "",
-          "release_type": "Post-Theatrical",
-          "description": "A coach finds redemption leading a team of misfits at a cricket academy, proving it's never too late for a second innings."
-        }
-      ]
-    },
-    {
-      "id": "sonyliv",
-      "name": "SonyLIV",
-      "releases": [
-        {
-          "title": "Rocket Boys",
-          "release_date": "2026-01-02",
-          "type": "series",
-          "industry": "Bollywood/Hindi",
-          "genre": "Drama",
-          "language": "Hindi",
-          "actors": [
-            "Unknown"
-          ],
+          "actors": [],
           "dubbing": "",
           "release_type": "Direct-to-OTT",
-          "description": "The inspiring journey of India’s top scientists continues with innovation, challenges, and emotional moments."
+          "description": "Love Beyond Wicket follows a failed cricketer turned coach who struggles to connect with his team but eventually turns things around."
         }
       ]
     },
     {
-      "id": "zee5",
-      "name": "ZEE5",
+      "id": "sunnxt",
+      "name": "SunNXT",
       "releases": [
         {
-          "title": "Dunki Diaries",
-          "release_date": "2026-01-03",
+          "title": "Ithiri Neram",
+          "release_date": "2025-12-31",
           "type": "movie",
-          "industry": "Bollywood/Hindi",
-          "genre": "Drama",
-          "language": "Hindi",
-          "actors": [
-            "Unknown"
-          ],
+          "industry": "Mollywood/Malayalam",
+          "genre": "",
+          "language": "Malayalam",
+          "actors": [],
           "dubbing": "",
           "release_type": "Direct-to-OTT",
-          "description": "A heartfelt drama focusing on dreams, migration, and survival through powerful storytelling."
-        },
-        {
-          "title": "Beauty",
-          "release_date": "2026-01-02",
-          "type": "movie",
-          "industry": "Tollywood/Telugu",
-          "genre": "Romantic Thriller",
-          "language": "Telugu",
-          "actors": [
-            "Alekhya"
-          ],
-          "dubbing": "",
-          "release_type": "Post-Theatrical",
-          "description": "A college student elopes with her boyfriend, but their new life turns into a nightmare as dark secrets emerge."
-        }
-      ]
-    },
-    {
-      "id": "jiocinema",
-      "name": "JioCinema",
-      "releases": [
-        {
-          "title": "Bigg Boss",
-          "release_date": "2026-01-01",
-          "type": "series",
-          "industry": "Bollywood/Hindi",
-          "genre": "Reality TV",
-          "language": "Hindi",
-          "actors": [
-            "Unknown"
-          ],
-          "dubbing": "",
-          "release_type": "Ongoing",
-          "description": "New episodes bring high-voltage drama, shocking twists, and intense rivalries inside the house."
+          "description": "Ithiri Neram is a confirmed Malayalam release streaming on Sun NXT during this period."
         }
       ]
     },
@@ -202,18 +96,34 @@
           "release_date": "2026-01-01",
           "type": "movie",
           "industry": "Tollywood/Telugu",
-          "genre": "Action Romance",
+          "genre": "Action Thriller",
           "language": "Telugu",
-          "actors": [
-            "Roshan Karthik Kanakala",
-            "Sakkshi Mhadolkar",
-            "Bandi Saroj Kumar"
-          ],
+          "actors": [],
           "dubbing": "",
-          "release_type": "Post-Theatrical",
-          "description": "An orphan raised in the wild falls for a deaf-mute dancer, but faces a corrupt officer's obsession after theatrical release."
+          "release_type": "Direct-to-OTT",
+          "description": "Mowgli is an action thriller with romantic elements where the hero falls for a deaf and mute background dancer pursued obsessively by a police officer."
         }
       ]
+    },
+    {
+      "id": "prime-video",
+      "name": "Prime Video",
+      "releases": []
+    },
+    {
+      "id": "sonyliv",
+      "name": "SonyLIV",
+      "releases": []
+    },
+    {
+      "id": "zee5",
+      "name": "ZEE5",
+      "releases": []
+    },
+    {
+      "id": "jiocinema",
+      "name": "JioCinema",
+      "releases": []
     },
     {
       "id": "aha",
@@ -223,11 +133,6 @@
     {
       "id": "hoichoi",
       "name": "Hoichoi",
-      "releases": []
-    },
-    {
-      "id": "sunnxt",
-      "name": "SunNXT",
       "releases": []
     },
     {

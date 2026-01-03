@@ -11,7 +11,7 @@
     "name": "United States",
     "flag": "🇺🇸"
   },
-  "generated_at": "2026-01-02T09:02:54.768Z",
+  "generated_at": "2026-01-03T09:01:20.297Z",
   "platforms": [
     {
       "id": "netflix",
@@ -42,6 +42,22 @@
           "theatrical_info": ""
         },
         {
+          "title": "The Miseducation of Cameron Post",
+          "release_date": "2025-12-29",
+          "type": "movie",
+          "genre": "Drama",
+          "language": "English",
+          "content_category": "indie",
+          "release_type": "Catalog Addition",
+          "actors": [
+            "Chloë Grace Moretz",
+            "Sasha Lane",
+            "Forrest Goodluck"
+          ],
+          "description": "2018 indie drama about a teenager sent to a conversion therapy camp.",
+          "theatrical_info": ""
+        },
+        {
           "title": "100 Meters",
           "release_date": "2025-12-31",
           "type": "series",
@@ -50,7 +66,7 @@
           "content_category": "international",
           "release_type": "Catalog Addition",
           "actors": [],
-          "description": "Season 1 of this Spanish-language series.",
+          "description": "Season 1 with English subtitles/dubbing available.",
           "theatrical_info": ""
         },
         {
@@ -62,7 +78,7 @@
           "content_category": "international",
           "release_type": "Catalog Addition",
           "actors": [],
-          "description": "2025 Indonesian horror film available with English subtitles.",
+          "description": "2025 Indonesian horror film with English subtitles.",
           "theatrical_info": ""
         },
         {
@@ -89,7 +105,7 @@
             "Alison Brie",
             "Jason Sudeikis"
           ],
-          "description": "2015 romantic comedy about two serial cheaters trying to stay friends.",
+          "description": "2015 romantic comedy.",
           "theatrical_info": ""
         },
         {
@@ -106,7 +122,7 @@
             "Gaten Matarazzo",
             "Caleb McLaughlin"
           ],
-          "description": "Netflix Original Season 5 – Volume 3, the highly anticipated finale of the iconic series.",
+          "description": "Netflix Original Season 5 – Volume 3, the long-awaited finale of the hit series.",
           "theatrical_info": ""
         },
         {
@@ -135,10 +151,10 @@
           "actors": [
             "Chiwetel Ejiofor",
             "Michael Kenneth Williams",
-            "Lupita Nyong'o"
+            "Alfre Woodard"
           ],
-          "description": "2013 Academy Award-winning historical drama directed by Steve McQueen.",
-          "theatrical_info": "Original theatrical release: 2013-10-18"
+          "description": "2013 Academy Award-winning historical drama.",
+          "theatrical_info": "2013-10-18 theatrical release"
         },
         {
           "title": "Priscilla",
@@ -150,10 +166,11 @@
           "release_type": "Catalog Addition",
           "actors": [
             "Cailee Spaeny",
-            "Jacob Elordi"
+            "Jacob Elordi",
+            "Ariana DeBose"
           ],
           "description": "2023 biographical drama about Priscilla Presley directed by Sofia Coppola.",
-          "theatrical_info": "Original theatrical release: 2023-10-20"
+          "theatrical_info": "2023-10-20 theatrical release"
         },
         {
           "title": "Run Away",
@@ -169,7 +186,7 @@
             "Ruth Jones",
             "Minnie Driver"
           ],
-          "description": "Netflix Original limited series created by Harlan Coben; a desperate father searches for his missing daughter, uncovering buried secrets.",
+          "description": "Netflix Original limited series created by Harlan Coben; a father searches for his missing daughter uncovering buried secrets.",
           "theatrical_info": ""
         },
         {
@@ -189,11 +206,11 @@
           "release_date": "2026-01-02",
           "type": "series",
           "genre": "Drama",
-          "language": "Korean",
-          "content_category": "international",
+          "language": "English",
+          "content_category": "mainstream",
           "release_type": "Direct-to-OTT",
           "actors": [],
-          "description": "Netflix Original Season 1, Korean drama available with English subtitles.",
+          "description": "Netflix Original Season 1.",
           "theatrical_info": ""
         },
         {
@@ -205,7 +222,7 @@
           "content_category": "international",
           "release_type": "Catalog Addition",
           "actors": [],
-          "description": "2025 Japanese film based on Haruki Murakami stories, with English subtitles.",
+          "description": "2025 Japanese film with English subtitles.",
           "theatrical_info": ""
         },
         {
@@ -217,8 +234,7 @@
           "content_category": "mainstream",
           "release_type": "Catalog Addition",
           "actors": [
-            "Kevin Bacon",
-            "James Purefoy"
+            "Kevin Bacon"
           ],
           "description": "Seasons 1-3 of the crime thriller series.",
           "theatrical_info": ""
@@ -228,110 +244,27 @@
     {
       "id": "prime-video",
       "name": "Prime Video",
-      "releases": [
-        {
-          "title": "The Naked Gun",
-          "release_date": "2025-12-29",
-          "type": "movie",
-          "genre": "Comedy",
-          "language": "English",
-          "content_category": "mainstream",
-          "release_type": "Catalog Addition",
-          "actors": [],
-          "description": "2025 remake/reboot of the classic comedy franchise with stupidly hilarious humor.",
-          "theatrical_info": "Original theatrical release: 2025"
-        }
-      ]
+      "releases": []
     },
     {
       "id": "disney-plus",
       "name": "Disney+",
-      "releases": [
-        {
-          "title": "Percy Jackson and the Olympians",
-          "release_date": "2025-12-31",
-          "type": "series",
-          "genre": "Fantasy Adventure",
-          "language": "English",
-          "content_category": "mainstream",
-          "release_type": "Direct-to-OTT",
-          "actors": [
-            "Walker Scobell",
-            "Leah Sava Jeffries",
-            "Aryan Simhadri"
-          ],
-          "description": "Season 2 episode 5 of the teen fantasy adventure series, perfect for all ages with season 3 confirmed.",
-          "theatrical_info": ""
-        },
-        {
-          "title": "Indiana Jones Franchise",
-          "release_date": "2026-01-01",
-          "type": "movie",
-          "genre": "Action Adventure",
-          "language": "English",
-          "content_category": "mainstream",
-          "release_type": "Catalog Addition",
-          "actors": [
-            "Harrison Ford"
-          ],
-          "description": "Full Indiana Jones franchise reunited on Disney+ including all major films previously on Paramount+.",
-          "theatrical_info": "Various original theatrical releases starting 1981"
-        }
-      ]
+      "releases": []
     },
     {
       "id": "hulu",
       "name": "Hulu",
-      "releases": [
-        {
-          "title": "Together",
-          "release_date": "2025-12-31",
-          "type": "movie",
-          "genre": "Horror",
-          "language": "English",
-          "content_category": "mainstream",
-          "release_type": "Catalog Addition",
-          "actors": [],
-          "description": "Horror film about a couple who drink from a mysterious forest water source leading to transformation.",
-          "theatrical_info": ""
-        }
-      ]
+      "releases": []
     },
     {
       "id": "apple-tv-plus",
       "name": "Apple TV+",
-      "releases": [
-        {
-          "title": "Palm Royale",
-          "release_date": "2025-12-31",
-          "type": "series",
-          "genre": "Drama",
-          "language": "English",
-          "content_category": "mainstream",
-          "release_type": "Direct-to-OTT",
-          "actors": [],
-          "description": "Season 2 episode 8.",
-          "theatrical_info": ""
-        }
-      ]
+      "releases": []
     },
     {
       "id": "max",
       "name": "Max",
-      "releases": [
-        {
-          "title": "One Battle After Another",
-          "release_date": "2025-12-19",
-          "type": "movie",
-          "genre": "Drama",
-          "language": "English",
-          "content_category": "mainstream",
-          "release_type": "Catalog Addition",
-          "actors": [],
-          "description": "Paul Thomas Anderson's critically-acclaimed awards contender film.",
-          "theatrical_info": ""
-        }
-      ]
+      "releases": []
     },
     {
       "id": "paramount-plus",
@@ -359,28 +292,28 @@
           "genre": "Thriller",
           "language": "English",
           "content_category": "mainstream",
-          "release_type": "Catalog Addition",
+          "release_type": "Direct-to-OTT",
           "actors": [
             "Sydney Sweeney",
             "Paul Walter Hauser",
             "Halsey",
             "Zahn McClarnon"
           ],
-          "description": "Film about a stolen Native American ghost shirt leading to cons and double-crosses.",
+          "description": "Starz original about a Native American ghost shirt sparking cons and double-crosses in a small town.",
           "theatrical_info": ""
         },
         {
           "title": "The Home",
           "release_date": "2026-01-01",
           "type": "movie",
-          "genre": "Horror Thriller",
+          "genre": "Horror",
           "language": "English",
           "content_category": "mainstream",
-          "release_type": "Catalog Addition",
+          "release_type": "Direct-to-OTT",
           "actors": [
             "Pete Davidson"
           ],
-          "description": "Psychological horror thriller from The Purge creator about a nursing home conspiracy.",
+          "description": "Starz psychological horror thriller from The Purge creator James DeMonaco about a nursing home conspiracy.",
           "theatrical_info": ""
         }
       ]
