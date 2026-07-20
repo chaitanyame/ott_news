@@ -1,20 +1,47 @@
 # OTT Weekly Releases
 
-A lightweight static web application that displays weekly OTT streaming platform releases in a blog post format with automated daily updates via Perplexity API and GitHub Actions.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-live-brightgreen)](https://chaitanyame.github.io/ott_news/)
+[![Update & Deploy](https://github.com/chaitanyame/ott_news/actions/workflows/update-deploy.yml/badge.svg)](https://github.com/chaitanyame/ott_news/actions/workflows/update-deploy.yml)
+
+A lightweight static web application that displays weekly OTT streaming platform releases in a blog post format, with automated daily updates and multi-region support for the **United States** and **India**.
 
 🔗 **[Live Demo](https://chaitanyame.github.io/ott_news/)**
 
 ## Features
 
-- 📺 Weekly releases from 8 major streaming platforms:
-  - Netflix, Prime Video, Disney+, Hulu, Apple TV+, Max, Paramount+, Peacock
-- 🔄 Automated daily updates via GitHub Actions (9 AM UTC)
-- 📦 Zero dependencies - vanilla HTML, CSS, JavaScript
-- ⚡ Fast loading with inlined critical CSS
-- 📱 Responsive design for mobile, tablet, and desktop
-- ♿ Accessible with ARIA attributes and skip navigation
-- 🗂️ Archive navigation with hash-based routing
-- 🔗 Shareable URLs for specific weeks
+- 📺 **29 streaming platforms** across two regions — US and India
+- 🌍 **Auto-detect your country** from browser timezone (overridable via toggle)
+- 🔄 **Automated daily updates** via GitHub Actions (9 AM UTC) using Perplexity AI
+- 📦 **Zero dependencies** — vanilla HTML, CSS, JavaScript (no frameworks, no build step)
+- 🌙 **Dark/Light theme toggle** with persistent `localStorage` preference
+- ⚡ **Fast loading** with inlined critical CSS
+- 📱 **Responsive design** for mobile, tablet, and desktop
+- ♿ **Accessible** with ARIA attributes and skip navigation
+- 🗂️ **Archive navigation** with hash-based routing
+- 🔗 **Shareable URLs** for specific weeks
+- 🖼️ **Platform logos** — SVG icons for every supported streaming service
+
+## Multi-Region Support
+
+The app tailors content based on your location, showing relevant streaming platforms for each market.
+
+### 🇺🇸 United States Platforms
+| Platform | Logo |
+|----------|------|
+| Netflix, Prime Video, Disney+, Hulu, Apple TV+ | Major US streamers |
+| Max, HBO, Paramount+, Peacock | Premium & cable networks |
+| Discovery+, Starz, Mubi, Tubi, Pluto TV | Niche & free streaming |
+| Criterion Channel, Crunchyroll | Curated & anime |
+
+### 🇮🇳 India Platforms
+| Platform | Logo |
+|----------|------|
+| Netflix, Prime Video, Disney+ Hotstar | Global leaders (India catalog) |
+| JioCinema, Zee5, SonyLIV | Homegrown streamers |
+| Hoichoi, Aha, SunNXT, Chaupal | Regional language platforms |
+| ManoramaMax, ETV Win, Planet Marathi | State-specific content |
+| Discovery+ | Documentaries |
 
 ## Getting Started
 
