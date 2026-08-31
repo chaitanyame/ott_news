@@ -89,6 +89,22 @@ npx playwright test --project=chromium
 npx playwright test --ui
 ```
 
+### npm Scripts
+
+| Command | Description |
+|---------|-------------|
+| `npm start` | Start a local dev server at `http://localhost:3000` |
+| `npm test` | Run all Playwright E2E tests |
+| `npm run test:unit` | Run Jest unit tests (`tests/build/`) |
+| `npm run test:e2e` | Run Playwright E2E tests (`tests/features/`) |
+| `npm run test:all` | Run unit **and** E2E tests |
+| `npm run test:ui` / `test:headed` | Run Playwright in UI or headed mode |
+| `npm run test:report` | Open the Playwright HTML test report |
+| `npm run fetch-releases` | Fetch the latest releases from the Perplexity API |
+| `npm run validate-json` | Validate `data/current-week.json` syntax |
+
+> 💡 `npm start` uses `http-server` with `-c-1` (cache disabled) so you never see stale data while developing.
+
 ## Configuration
 
 ### Environment Variables
@@ -96,6 +112,9 @@ npx playwright test --ui
 | Variable | Description | Required |
 |----------|-------------|----------|
 | `PERPLEXITY_API_KEY` | API key for Perplexity AI | Yes |
+| `FORCE_UPDATE` | Set to `true` to bypass the cache and refresh data regardless | No |
+
+> `FORCE_UPDATE` is a local/script convenience flag — when deploying via the CI workflow you can pass `force_update` from the **Run workflow** dialog instead.
 
 ### GitHub Secrets
 
@@ -118,6 +137,25 @@ For automated updates, add the following secret to your repository:
 
 The site will be available at `https://{username}.github.io/ott_news/`
 
+## Automation Workflows
+
+The repository ships three GitHub Actions workflows (in `.github/workflows/`):
+
+| Workflow | File | Trigger | Purpose |
+|----------|------|---------|---------|
+| **Update & Deploy** | `update-deploy.yml` | Daily 09:00 UTC + push to `dev`/`main` + manual | Fetches the latest releases via Perplexity, commits data changes, then deploys to Pages. Creates an auto-failure issue if the API call fails. |
+| **Deploy to GitHub Pages** | `deploy-pages.yml` | Push to `dev`/`main` or manual | Builds the site with the Jekyll passthrough and publishes to Pages. |
+| **Fetch Custom Date Range** | `fetch-custom-dates.yml` | Manual (`workflow_dispatch`) | Backfills releases for a past or future week via `scripts/fetch-releases-custom.js` — run it with a start/end date, target country, and optional "save as current" flag. |
+
+### Generating data for a custom week
+
+1. Go to **Actions** → **Fetch Custom Date Range** → **Run workflow**.
+2. Set `Start date` / `End date` (e.g. `2025-11-25` … `2025-12-01`).
+3. Pick a `Country` (`us`, `india`, or `both`) and toggle `Save as current` to overwrite the live current-week data.
+4. Run — the workflow validates the dates, fetches, commits the data files, and triggers a Pages deploy.
+
+> Because `fetch-data` runs on a **self-hosted** runner while the deploy job uses `ubuntu-latest`, the API-fetch and publishing steps are cleanly separated.
+
 ## Project Structure
 
 ```
@@ -139,7 +177,9 @@ ott_news/
 │   └── build/             # Unit tests
 └── .github/
     └── workflows/
-        └── daily-update.yml # Automated update workflow
+        ├── update-deploy.yml        # Daily data fetch + Pages deploy
+        ├── deploy-pages.yml         # Static Pages build & publish
+        └── fetch-custom-dates.yml   # Manual backfill for custom weeks
 ```
 
 ## API Usage
